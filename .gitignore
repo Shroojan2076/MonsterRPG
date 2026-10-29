@@ -1,0 +1,81 @@
+# ==========================================
+# Compiled Binaries & Object Files
+# ==========================================
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+
+# Test & Root Binaries
+test.exe
+MonsterRPG.exe
+
+# ==========================================
+# Build Systems (CMake, Ninja, Make)
+# ==========================================
+build/
+bin/
+out/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+_deps/
+Makefile
+build.ninja
+.ninja_*
+*.cmake.in
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# ==========================================
+# IDE & Editor Configuration
+# ==========================================
+.vs/
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# Visual Studio Code (keep settings if needed, ignore transient workspace state)
+.vscode/*
+!.vscode/settings.json
+
+# ==========================================
+# Operating System & Temp Files
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==========================================
+# Python (scratch / asset generation scripts)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Game Saves & Player Data
+# ==========================================
+saves/
+*.sav
+*.dat
