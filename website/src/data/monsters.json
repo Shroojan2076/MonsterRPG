@@ -1,0 +1,224 @@
+[
+  {
+    "id": "004",
+    "name": "Charmander",
+    "category": "Starter Pokemon",
+    "type": "Fire",
+    "typeColor": "fire",
+    "frontSprite": "./assets/monsters/front/004_CHARMANDER.png",
+    "backSprite": "./assets/monsters/back/004_CHARMANDER.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_149.png",
+    "description": "The flame that burns at the tip of its tail is an indication of its emotions. Entrusted to the player by Prof. Oak as your primary journey partner.",
+    "baseStats": { "hp": 20, "atk": 12, "def": 10, "spd": 14 },
+    "moves": [
+      { "name": "Scratch", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Ember", "type": "Fire", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Entrusted by Prof. Oak in Oak's Lab"
+  },
+  {
+    "id": "007",
+    "name": "Squirtle",
+    "category": "Starter Pokemon",
+    "type": "Water",
+    "typeColor": "water",
+    "frontSprite": "./assets/monsters/front/007_SQUIRTLE.png",
+    "backSprite": "./assets/monsters/back/007_SQUIRTLE.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_133.png",
+    "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger. Resides alongside Prof. Oak studying specimen reflections.",
+    "baseStats": { "hp": 22, "atk": 10, "def": 13, "spd": 11 },
+    "moves": [
+      { "name": "Tackle", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Water Gun", "type": "Water", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Prof. Oak's Research Lab"
+  },
+  {
+    "id": "001",
+    "name": "Bulbasaur",
+    "category": "Starter Pokemon",
+    "type": "Grass",
+    "typeColor": "grass",
+    "frontSprite": "./assets/monsters/front/001_BULBASAUR.png",
+    "backSprite": "./assets/monsters/back/001_BULBASAUR.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_134.png",
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon. Can be found basking in sunlit forest patches.",
+    "baseStats": { "hp": 23, "atk": 11, "def": 11, "spd": 10 },
+    "moves": [
+      { "name": "Tackle", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Vine Whip", "type": "Grass", "power": 45, "accuracy": 100 }
+    ],
+    "location": "Whispering Woods (Canopy clearing at 21, 17)"
+  },
+  {
+    "id": "025",
+    "name": "Pikachu",
+    "category": "Wild Pokemon",
+    "type": "Electric",
+    "typeColor": "electric",
+    "frontSprite": "./assets/monsters/front/025_PIKACHU.png",
+    "backSprite": "./assets/monsters/back/025_PIKACHU.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_143.png",
+    "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms. Roams playful nooks in Whispering Woods.",
+    "baseStats": { "hp": 18, "atk": 13, "def": 9, "spd": 16 },
+    "moves": [
+      { "name": "Quick Attack", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Thunder Shock", "type": "Electric", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Whispering Woods (Tall Grass at 25, 7)"
+  },
+  {
+    "id": "150",
+    "name": "Mewtwo",
+    "category": "Legendary Boss",
+    "type": "Psychic",
+    "typeColor": "psychic",
+    "frontSprite": "./assets/monsters/front/150_MEWTWO.png",
+    "backSprite": "./assets/monsters/back/150_MEWTWO.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_131.png",
+    "description": "A creature created by genetic manipulation. Its psychic energy radiates with overwhelming force across the Whispering Woods clearing.",
+    "baseStats": { "hp": 65, "atk": 25, "def": 18, "spd": 22 },
+    "moves": [
+      { "name": "Psychic", "type": "Psychic", "power": 90, "accuracy": 100 },
+      { "name": "Psystrike", "type": "Psychic", "power": 100, "accuracy": 100 }
+    ],
+    "location": "Guardian Clearing Sanctuary (Grid 37, 5)"
+  },
+  {
+    "id": "143",
+    "name": "Snorlax",
+    "category": "Wild Forest Entity",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/143_SNORLAX.png",
+    "backSprite": "./assets/monsters/back/143_SNORLAX.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_127.png",
+    "description": "Very lazy. Just eats and sleeps. As its rotund belly gets bigger, it becomes increasingly nonchalant about the world.",
+    "baseStats": { "hp": 80, "atk": 20, "def": 15, "spd": 6 },
+    "moves": [
+      { "name": "Body Slam", "type": "Normal", "power": 85, "accuracy": 100 },
+      { "name": "Rest", "type": "Psychic", "power": 0, "accuracy": 100 }
+    ],
+    "location": "Secluded Forest Grove (Grid 36, 12)"
+  },
+  {
+    "id": "133",
+    "name": "Eevee",
+    "category": "Lab Companion",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/133_EEVEE.png",
+    "backSprite": "./assets/monsters/back/133_EEVEE.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_135.png",
+    "description": "Possesses an irregularly structured genetic makeup that allows it to evolve into various types. Assists Prof. Oak with research documentation.",
+    "baseStats": { "hp": 22, "atk": 11, "def": 10, "spd": 11 },
+    "moves": [
+      { "name": "Tackle", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Quick Attack", "type": "Normal", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Prof. Oak's Research Lab (Grid 9, 3)"
+  },
+  {
+    "id": "052",
+    "name": "Meowth",
+    "category": "Town Companion",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/052_MEOWTH.png",
+    "backSprite": "./assets/monsters/back/052_MEOWTH.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_145.png",
+    "description": "Adores round objects. Wanders town streets looking for dropped coins. Loyal companion to Cedric in Oakdale Town Square.",
+    "baseStats": { "hp": 19, "atk": 10, "def": 8, "spd": 15 },
+    "moves": [
+      { "name": "Scratch", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Bite", "type": "Normal", "power": 60, "accuracy": 100 }
+    ],
+    "location": "Oakdale Town Square (Grid 12, 11)"
+  },
+  {
+    "id": "035",
+    "name": "Clefairy",
+    "category": "Clinic Assistant",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/035_CLEFAIRY.png",
+    "backSprite": "./assets/monsters/back/035_CLEFAIRY.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_146.png",
+    "description": "Its magical and cute appeal has many admirers. Assists Nurse Joy in soothing and comforting exhausted monsters during recovery.",
+    "baseStats": { "hp": 25, "atk": 9, "def": 10, "spd": 8 },
+    "moves": [
+      { "name": "Pound", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Disarming Voice", "type": "Normal", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Oakdale Pokemon Center (Grid 7, 3)"
+  },
+  {
+    "id": "039",
+    "name": "Jigglypuff",
+    "category": "Center Visitor",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/039_JIGGLYPUFF.png",
+    "backSprite": "./assets/monsters/back/039_JIGGLYPUFF.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_148.png",
+    "description": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls anyone who hears it to sleep.",
+    "baseStats": { "hp": 30, "atk": 9, "def": 6, "spd": 6 },
+    "moves": [
+      { "name": "Sing", "type": "Normal", "power": 0, "accuracy": 55 },
+      { "name": "Pound", "type": "Normal", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Oakdale Pokemon Center Lounge (Grid 4, 6)"
+  },
+  {
+    "id": "016",
+    "name": "Pidgey",
+    "category": "Wild Forest Pokemon",
+    "type": "Normal",
+    "typeColor": "normal",
+    "frontSprite": "./assets/monsters/front/016_PIDGEY.png",
+    "backSprite": "./assets/monsters/back/016_PIDGEY.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_149.png",
+    "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "baseStats": { "hp": 18, "atk": 10, "def": 9, "spd": 12 },
+    "moves": [
+      { "name": "Tackle", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Gust", "type": "Normal", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Whispering Woods Trail (Grid 31, 15)"
+  },
+  {
+    "id": "054",
+    "name": "Psyduck",
+    "category": "Wild Forest Pokemon",
+    "type": "Water",
+    "typeColor": "water",
+    "frontSprite": "./assets/monsters/front/054_PSYDUCK.png",
+    "backSprite": "./assets/monsters/back/054_PSYDUCK.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_147.png",
+    "description": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers when its headache peaks.",
+    "baseStats": { "hp": 21, "atk": 11, "def": 10, "spd": 11 },
+    "moves": [
+      { "name": "Scratch", "type": "Normal", "power": 40, "accuracy": 100 },
+      { "name": "Water Gun", "type": "Water", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Whispering Woods Pond Clearing (Grid 26, 21)"
+  },
+  {
+    "id": "060",
+    "name": "Poliwag",
+    "category": "Wild Forest Pokemon",
+    "type": "Water",
+    "typeColor": "water",
+    "frontSprite": "./assets/monsters/front/060_POLIWAG.png",
+    "backSprite": "./assets/monsters/back/060_POLIWAG.png",
+    "overworldSprite": "./assets/monsters/overworld/ow_140.png",
+    "description": "Its newly grown legs prevent it from running. It appears to prefer swimming rather than trying to stand on land.",
+    "baseStats": { "hp": 19, "atk": 10, "def": 9, "spd": 15 },
+    "moves": [
+      { "name": "Bubble", "type": "Water", "power": 40, "accuracy": 100 },
+      { "name": "Water Gun", "type": "Water", "power": 40, "accuracy": 100 }
+    ],
+    "location": "Whispering Woods Stream Shore (Grid 34, 19)"
+  }
+]
+

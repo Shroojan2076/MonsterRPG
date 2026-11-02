@@ -2,14 +2,15 @@
 #include "StateManager.hpp"
 #include "ResourceManager.hpp"
 
-DialogueState::DialogueState(StateManager& manager, const ResourceManager& res, std::string speaker, std::vector<std::string> dialogueLines)
+DialogueState::DialogueState(StateManager& manager, const ResourceManager& res, std::string speaker, std::vector<std::string> dialogueLines, std::function<void()> onComplete)
     : GameState(manager),
       resources(res),
       speakerName(std::move(speaker)),
       lines(std::move(dialogueLines)),
       currentLineIndex(0),
       textCharTimer(0.0f),
-      visibleCharCount(0) {
+      visibleCharCount(0),
+      onCompleteCallback(std::move(onComplete)) {
     if (lines.empty()) {
         lines.push_back("...");
     }
@@ -32,6 +33,9 @@ void DialogueState::handleInput(const sf::Event& event) {
 
                 if (currentLineIndex >= lines.size()) {
                     stateManager.popState();
+                    if (onCompleteCallback) {
+                        onCompleteCallback();
+                    }
                 }
             }
         }

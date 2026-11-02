@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 90" fill="none">
+  <!-- Retro MonsterRPG Logo Mark & Wordmark -->
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="50%" stop-color="#182430"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="pixelShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="0" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Logo Mark (Badge Ball) -->
+  <g filter="url(#pixelShadow)">
+    <circle cx="45" cy="45" r="32" fill="url(#badgeGrad)" stroke="#f59e0b" stroke-width="4"/>
+    <line x1="13" y1="45" x2="77" y2="45" stroke="#f59e0b" stroke-width="4"/>
+    <circle cx="45" cy="45" r="11" fill="#182430" stroke="#f59e0b" stroke-width="4"/>
+    <circle cx="45" cy="45" r="5" fill="#facc15"/>
+  </g>
+
+  <!-- Wordmark "MonsterRPG" -->
+  <g filter="url(#pixelShadow)">
+    <!-- MONSTER -->
+    <text x="96" y="47" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" font-size="34" letter-spacing="1" fill="#f8fafc">MONSTER</text>
+    <!-- RPG -->
+    <text x="282" y="47" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" font-size="34" letter-spacing="2" fill="url(#goldGrad)">RPG</text>
+    <!-- Subtitle -->
+    <text x="98" y="68" font-family="'Inter', sans-serif" font-weight="600" font-size="10.5" letter-spacing="3.5" fill="#94a3b8">2D RETRO ADVENTURE • C++ &amp; SFML</text>
+  </g>
+</svg>
+

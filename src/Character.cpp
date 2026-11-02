@@ -27,6 +27,18 @@ void Character::turnTo(Direction dir) {
     updateSpriteFrame();
 }
 
+void Character::teleport(int x, int y, Direction dir) {
+    gridPosition = {x, y};
+    worldPosition = {static_cast<float>(x * 16), static_cast<float>(y * 16)};
+    movementStartPosition = worldPosition;
+    movementState = MovementState::Idle;
+    movementProgress = 0.0f;
+    facingDirection = dir;
+    animationFrame = 0;
+    updateSpriteFrame();
+    sprite.setPosition({worldPosition.x + 8.0f, worldPosition.y + 16.0f});
+}
+
 bool Character::tryStep(Direction dir, const TileMap& tileMap) {
     if (movementState != MovementState::Idle || dir == Direction::None) {
         return false;

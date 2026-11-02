@@ -88,21 +88,59 @@
 
 ---
 
-### Phase 3: Building Interiors & Warp System (Multilevel Maps)
-*Seamless transitions into indoor buildings.*
+### Phase 3: Building Interiors & Warp System (Multilevel Maps) - COMPLETED
+*Seamless transitions into indoor buildings with authentic pixel art and interior NPC placements.*
 
-- [ ] **3.1. `WarpTrigger` Entity:**
-  - New entity type placed on doors and cave entrances:
-    - Stores `targetMapId`, `targetSpawnTile`, and `entryDirection`.
-- [ ] **3.2. Indoor Map Scenes:**
-  - **Oak's Research Lab Interior:** Bookshelves, PC terminals, Pokéball display table, research assistants.
-  - **Pokémon Center Interior:** Healing counter, Nurse Joy desk, healing machine with flashing Pokéball slots, PC storage terminal.
-- [ ] **3.3. Smooth Camera Fade Transitions:**
+- [x] **3.1. Dynamic Multilevel TileMap & Warp Engine:**
+  - Implemented dynamic `MapId` (`Overworld`, `OakLab`, `PokemonCenter`) in `TileMap` supporting dynamic width/height grids.
+  - Seamless door warp triggers:
+    - Overworld Lab door `(6, 7)` -> OakLab doorway `(6, 8)` facing Up.
+    - Overworld Clinic door `(6, 18)` -> PokemonCenter doorway `(6, 8)` facing Up.
+    - OakLab exit mat `(6, 9)` -> Overworld cobblestone `(6, 8)` facing Down.
+    - PokemonCenter exit mat `(6, 9)` -> Overworld cobblestone `(6, 19)` facing Down.
+- [x] **3.2. Authentic Building Interiors (14x11 Grids):**
+  - **Oak's Research Lab:** Sandstone parquet floor, solid mahogany wood paneling, scientific bookshelves, research computer terminal, whiteboard with diagram equations, specimen microscope table, research table with 3 starter Pokéballs tray, potted plants, and wooden exit doormat.
+  - **Oakdale Health Center (Pokémon Center):** Medical checkered floor, cyan/cream clinic walls with trim, curved reception service counter, wall-mounted Pokéball healing machine, network PC storage terminal, refreshment vending machines, waiting area benches, and red entrance carpet runner leading to exit mat.
+- [x] **3.3. Dedicated Indoor NPCs & Across-Counter Interactions:**
+  - Professor Oak moved inside his Lab behind his research table at `(6, 3)` (talk across table at `(6, 5)` to receive Starter `Pyropup`!).
+  - Nurse Joy moved inside the Health Center behind her medical counter at `(6, 3)` (talk across counter at `(6, 5)` to restore party HP!).
+  - Interactive research apparatuses: Whiteboard, Lab Mainframe PC, Clinic Storage PC, and Refreshment Vending Machine.
+- [x] **3.4. Smooth Screen Fade & Centered Interior Camera:**
+  - Alpha-interpolated fade-to-black transition (`FadingOut` -> teleport & map swap -> `FadingIn`).
+  - Perfect camera centering for interior maps framed cleanly inside the 240x160 viewport.
   - Screen fade-to-black (0.25s) $\rightarrow$ swap map $\rightarrow$ fade-in (0.25s).
 
 ---
 
-### Phase 4: Battle & Combat Mechanics Expansion
+### Phase 4: Authentic Pokémon Sprites & Follower System - COMPLETED
+*Integration of authentic overworld sprites (`assets/overworld/`) and battle sprites (`assets/pokemon/front` and `assets/pokemon/back`).*
+
+- [x] **4.1. Authentic Battle Sprites Engine:**
+  - Player's monster renders using authentic back sprites from `assets/pokemon/back/` (64x64 PNGs).
+  - Wild/opponent monsters render using authentic front sprites from `assets/pokemon/front/` (64x64 PNGs).
+  - `ResourceManager` key resolution seamlessly handles numeric IDs (`001` to `386`), uppercase names (`CHARMANDER`, `SQUIRTLE`, `BULBASAUR`, `PIKACHU`, `MEWTWO`), and legacy backward-compatible aliases (`pyropup`, `aquafox`, `grassling`, `voltmouse`, `sylvanguard`).
+- [x] **4.2. Overworld Pokémon Entity Framework (`PokemonEntity`):**
+  - Dedicated `PokemonEntity` class supporting single-frame 16x16 standard and 32x32 large/legendary Pokémon overworld sprites from `assets/overworld/`.
+  - Idle vertical bobbing/breathing animation and horizontal facing direction flipping.
+  - Pre-battle dialogue and interactive battle triggers.
+- [x] **4.3. Interactive Overworld & Indoor Pokémon:**
+  - **Whispering Woods Overworld Pokémon:**
+    - Legendary Boss Mewtwo (`ow_131.png`, 32x32) at `(37, 5)` with boss confrontation sequence.
+    - Sleeping Snorlax (`ow_127.png`, 32x32) at `(36, 12)` snoring peacefully in the grove.
+    - Interactive wild Pokémon: Pikachu (`ow_143.png`) at `(25, 7)`, Bulbasaur (`ow_134.png`) at `(21, 17)`, Pidgey (`ow_149.png`) at `(31, 15)`, Psyduck (`ow_147.png`) at `(26, 21)`, Poliwag (`ow_140.png`) at `(34, 19)`.
+  - **Town & Interior Companions:**
+    - Cedric's Meowth (`ow_145.png`) in Town Square.
+    - Prof. Oak's research assistant Eevee (`ow_135.png`) and starter Squirtle (`ow_133.png`) in Oak's Lab.
+    - Nurse Joy's clinic assistant Clefairy (`ow_146.png`) and visiting Jigglypuff (`ow_148.png`) in Pokémon Center.
+- [x] **4.4. Walking Partner Follower Pokémon (`FollowerPokemon`):**
+  - Follower walks behind player tile-by-tile once player receives a starter Pokémon.
+  - Seamlessly syncs texture and name to the player's active first party Pokémon.
+  - Smooth interpolation matching player's walk and run speeds.
+  - Interactive partner dialogue reflecting Pokémon's mood and health condition.
+
+---
+
+### Phase 5: Battle & Combat Mechanics Expansion
 *Deepen the RPG tactical depth.*
 
 - [ ] **4.1. In-Combat Party Swapping:**

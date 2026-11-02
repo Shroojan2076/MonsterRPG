@@ -3,6 +3,7 @@
 #include "GameState.hpp"
 #include <string>
 #include <vector>
+#include <functional>
 
 class ResourceManager;
 
@@ -15,9 +16,10 @@ private:
 
     float textCharTimer;
     size_t visibleCharCount;
+    std::function<void()> onCompleteCallback;
 
 public:
-    DialogueState(StateManager& manager, const ResourceManager& res, std::string speaker, std::vector<std::string> dialogueLines);
+    DialogueState(StateManager& manager, const ResourceManager& res, std::string speaker, std::vector<std::string> dialogueLines, std::function<void()> onComplete = nullptr);
 
     void handleInput(const sf::Event& event) override;
     void update(float deltaTime) override;

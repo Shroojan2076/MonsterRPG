@@ -12,12 +12,20 @@ class NPC : public Character {
 protected:
     std::string name;
     std::vector<std::string> dialogueLines;
-    std::function<void(const std::string&, const std::vector<std::string>&)> dialogueTrigger;
+    std::function<void(const std::string&, const std::vector<std::string>&, std::function<void()>)> dialogueTrigger;
+
+    void triggerDialogue(const std::string& speaker, const std::vector<std::string>& lines, std::function<void()> onDone = nullptr) {
+        if (dialogueTrigger) {
+            dialogueTrigger(speaker, lines, std::move(onDone));
+        }
+    }
 
 public:
     NPC(int gridX, int gridY, const sf::Texture& texture, std::string name, Direction facing = Direction::Down);
 
-    void setDialogueTrigger(std::function<void(const std::string&, const std::vector<std::string>&)> trigger);
+    void setDialogueTrigger(std::function<void(const std::string&, const std::vector<std::string>&, std::function<void()>)> trigger) {
+        dialogueTrigger = std::move(trigger);
+    }
 
     void onInteract(Player& player) override;
     bool isInteractive() const override { return true; }

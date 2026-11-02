@@ -32,6 +32,7 @@ add_executable(MonsterRPG
     src/NPC.cpp
     src/WorldObject.cpp
     src/Monster.cpp
+    src/PokemonEntity.cpp
     src/Item.cpp
     src/StateManager.cpp
     src/OverworldState.cpp

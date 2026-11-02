@@ -21,6 +21,7 @@ private:
 
     float turnCooldownTimer;
     Direction lastPressedDirection;
+    sf::Vector2i previousGridPosition;
 
     std::function<void(sf::Vector2i)> onStepCompleted;
     std::function<bool(int, int)> collisionCheck;
@@ -33,6 +34,7 @@ public:
     void update(float deltaTime, const TileMap& tileMap) override;
 
     sf::Vector2i getFrontTile() const;
+    sf::Vector2i getPreviousGridPosition() const { return previousGridPosition; }
 
     // Party and Inventory Management (Encapsulation)
     void addMonster(const std::shared_ptr<Monster>& monster);

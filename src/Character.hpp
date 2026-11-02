@@ -25,6 +25,7 @@ public:
     Character(int gridX, int gridY, const sf::Texture& texture, Direction initialFacing = Direction::Down);
 
     void turnTo(Direction dir);
+    void teleport(int x, int y, Direction dir);
     bool tryStep(Direction dir, const TileMap& tileMap);
 
     void update(float deltaTime, const TileMap& tileMap) override;

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "town-square",
+    "title": "Oakdale Town Square",
+    "category": "Overworld",
+    "image": "./assets/screenshots/town_square.png",
+    "thumbnail": "./assets/screenshots/town_square.png",
+    "caption": "The bustling heart of Oakdale Town featuring cobblestone avenues, antique lampposts, flower gardens, and Cedric with his companion Meowth.",
+    "tags": ["Overworld", "Town", "NPC", "Companions"]
+  },
+  {
+    "id": "oak-lab",
+    "title": "Prof. Oak's Research Lab",
+    "category": "Interiors",
+    "image": "./assets/screenshots/oak_lab.png",
+    "thumbnail": "./assets/screenshots/oak_lab.png",
+    "caption": "Inside the lab: scientific whiteboard with elemental formulas, research mainframe terminal, starter tray, and assistant Eevee reviewing field notes.",
+    "tags": ["Interior", "Prof Oak", "Lab", "Starter"]
+  },
+  {
+    "id": "pokemon-center",
+    "title": "Oakdale Pokémon Center",
+    "category": "Interiors",
+    "image": "./assets/screenshots/pokemon_center.png",
+    "thumbnail": "./assets/screenshots/pokemon_center.png",
+    "caption": "The town's medical clinic where Nurse Joy and Clefairy completely heal your party. Includes network PC terminal and refreshments.",
+    "tags": ["Interior", "Nurse Joy", "Healing", "Clinic"]
+  },
+  {
+    "id": "whispering-woods",
+    "title": "Whispering Woods Wilderness",
+    "category": "Exploration",
+    "image": "./assets/screenshots/whispering_woods.png",
+    "thumbnail": "./assets/screenshots/whispering_woods.png",
+    "caption": "Venture east into Whispering Woods: navigate winding dirt paths, discover wild Bulbasaur and Pikachu in tall grass, and find hidden items.",
+    "tags": ["Exploration", "Forest", "Wild", "Tall Grass"]
+  },
+  {
+    "id": "mewtwo-encounter",
+    "title": "Confronting the Guardian Mewtwo",
+    "category": "Boss Encounter",
+    "image": "./assets/screenshots/mewtwo_encounter.png",
+    "thumbnail": "./assets/screenshots/mewtwo_encounter.png",
+    "caption": "Deep in the northern clearing of Whispering Woods stands the legendary Mewtwo, radiating overwhelming psionic power.",
+    "tags": ["Boss", "Mewtwo", "Legendary", "Overworld"]
+  },
+  {
+    "id": "battle-wild",
+    "title": "Turn-Based Wild Battle",
+    "category": "Combat",
+    "image": "./assets/screenshots/battle_wild.png",
+    "thumbnail": "./assets/screenshots/battle_wild.png",
+    "caption": "Engage wild creatures in strategic turn-based combat. Choose between FIGHT, BAG, CATCH, and RUN with dynamic sprite animation.",
+    "tags": ["Battle", "Turn-Based", "Pikachu", "Combat"]
+  },
+  {
+    "id": "battle-moves",
+    "title": "Move Selection & Elemental Tactics",
+    "category": "Combat",
+    "image": "./assets/screenshots/battle_moves.png",
+    "thumbnail": "./assets/screenshots/battle_moves.png",
+    "caption": "Select from elemental moves (Scratch, Ember, Vine Whip, Water Gun). Each move features accurate power, type classification, and hit rates.",
+    "tags": ["Battle", "Moves", "Elemental", "Strategy"]
+  },
+  {
+    "id": "battle-boss",
+    "title": "Climactic Boss Battle",
+    "category": "Combat",
+    "image": "./assets/screenshots/battle_boss.png",
+    "thumbnail": "./assets/screenshots/battle_boss.png",
+    "caption": "Face the high-level Forest Guardian Mewtwo in an intense encounter featuring custom psionic visual FX, particle explosions, and high stakes.",
+    "tags": ["Battle", "Boss", "Mewtwo", "Climax"]
+  }
+]
+

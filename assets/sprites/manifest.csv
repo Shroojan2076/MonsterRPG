@@ -1,0 +1,840 @@
+new_filename,original_filename,sprite_index,description,x,y,width,height,component_area_pixels
+round_leafy_tree_01.png,sprite_0001_x14_y19.png,1,round leafy tree,14,19,36,45,1278
+round_leafy_tree_02.png,sprite_0002_x78_y19.png,2,round leafy tree,78,19,36,45,1278
+round_leafy_tree_03.png,sprite_0003_x142_y19.png,3,round leafy tree,142,19,36,45,1278
+round_leafy_tree_04.png,sprite_0004_x206_y19.png,4,round leafy tree,206,19,36,45,1278
+round_leafy_tree_05.png,sprite_0005_x12_y83.png,5,round leafy tree,12,83,40,45,1294
+round_leafy_tree_06.png,sprite_0006_x76_y83.png,6,round leafy tree,76,83,40,45,1294
+round_leafy_tree_07.png,sprite_0007_x140_y83.png,7,round leafy tree,140,83,40,45,1294
+round_leafy_tree_08.png,sprite_0008_x204_y83.png,8,round leafy tree,204,83,40,45,1294
+layered_conifer_tree_01.png,sprite_0009_x12_y144.png,9,layered conifer tree,12,144,40,48,1458
+layered_conifer_tree_02.png,sprite_0010_x76_y144.png,10,layered conifer tree,76,144,40,48,1458
+layered_conifer_tree_03.png,sprite_0011_x140_y144.png,11,layered conifer tree,140,144,40,48,1458
+layered_conifer_tree_04.png,sprite_0012_x204_y144.png,12,layered conifer tree,204,144,40,48,1458
+yellow_green_tree_01.png,sprite_0013_x9_y205.png,13,yellow green tree,9,205,46,51,1840
+yellow_green_tree_02.png,sprite_0014_x73_y205.png,14,yellow green tree,73,205,46,51,1840
+yellow_green_tree_03.png,sprite_0015_x137_y205.png,15,yellow green tree,137,205,46,51,1840
+yellow_green_tree_04.png,sprite_0016_x201_y205.png,16,yellow green tree,201,205,46,51,1840
+floating_canopy_tree_01.png,sprite_0017_x8_y264.png,17,floating canopy tree,8,264,47,56,2017
+floating_canopy_tree_02.png,sprite_0018_x72_y264.png,18,floating canopy tree,72,264,47,56,2017
+floating_canopy_tree_03.png,sprite_0019_x136_y264.png,19,floating canopy tree,136,264,47,56,2017
+floating_canopy_tree_04.png,sprite_0020_x200_y264.png,20,floating canopy tree,200,264,47,56,2017
+autumn_tree_01.png,sprite_0021_x8_y328.png,21,autumn tree,8,328,47,56,2017
+autumn_tree_02.png,sprite_0022_x72_y328.png,22,autumn tree,72,328,47,56,2017
+autumn_tree_03.png,sprite_0023_x136_y328.png,23,autumn tree,136,328,47,56,2017
+evergreen_conifer_01.png,sprite_0024_x5_y411.png,24,evergreen conifer,5,411,53,69,2310
+evergreen_conifer_02.png,sprite_0025_x69_y411.png,25,evergreen conifer,69,411,53,69,2310
+evergreen_conifer_03.png,sprite_0026_x133_y411.png,26,evergreen conifer,133,411,53,69,2310
+evergreen_conifer_04.png,sprite_0027_x197_y411.png,27,evergreen conifer,197,411,53,69,2310
+broadleaf_tree_01.png,sprite_0028_x5_y506.png,28,broadleaf tree,5,506,54,70,2582
+broadleaf_tree_02.png,sprite_0029_x69_y506.png,29,broadleaf tree,69,506,54,70,2582
+broadleaf_tree_03.png,sprite_0030_x133_y506.png,30,broadleaf tree,133,506,54,70,2582
+broadleaf_tree_04.png,sprite_0031_x197_y506.png,31,broadleaf tree,197,506,54,70,2582
+large_broadleaf_tree_01.png,sprite_0032_x4_y601.png,32,large broadleaf tree,4,601,57,71,3084
+large_broadleaf_tree_02.png,sprite_0033_x68_y601.png,33,large broadleaf tree,68,601,57,71,3084
+large_broadleaf_tree_03.png,sprite_0034_x132_y601.png,34,large broadleaf tree,132,601,57,71,3084
+large_broadleaf_tree_04.png,sprite_0035_x196_y601.png,35,large broadleaf tree,196,601,57,71,3084
+round_shrub_01.png,sprite_0036_x3_y702.png,36,round shrub,3,702,56,65,2805
+round_shrub_02.png,sprite_0037_x67_y702.png,37,round shrub,67,702,56,65,2805
+round_shrub_03.png,sprite_0038_x131_y702.png,38,round shrub,131,702,56,65,2805
+round_shrub_04.png,sprite_0039_x195_y702.png,39,round shrub,195,702,56,65,2805
+conical_shrub_01.png,sprite_0040_x8_y786.png,40,conical shrub,8,786,48,46,1506
+conical_shrub_02.png,sprite_0041_x72_y786.png,41,conical shrub,72,786,48,46,1506
+conical_shrub_03.png,sprite_0042_x136_y786.png,42,conical shrub,136,786,48,46,1506
+conical_shrub_04.png,sprite_0043_x199_y786.png,43,conical shrub,199,786,48,46,1506
+snow_ice_tree_or_bush_01.png,sprite_0044_x13_y850.png,44,snow ice tree or bush,13,850,39,40,1044
+snow_ice_tree_or_bush_02.png,sprite_0045_x78_y851.png,45,snow ice tree or bush,78,851,36,36,811
+snow_ice_tree_or_bush_03.png,sprite_0046_x142_y851.png,46,snow ice tree or bush,142,851,36,37,1032
+snow_ice_tree_or_bush_04.png,sprite_0047_x204_y851.png,47,snow ice tree or bush,204,851,40,35,892
+snow_ice_tree_or_bush_05.png,sprite_0048_x202_y909.png,48,snow ice tree or bush,202,909,44,43,1131
+snow_ice_tree_or_bush_06.png,sprite_0049_x80_y912.png,49,snow ice tree or bush,80,912,36,35,742
+snow_ice_tree_or_bush_07.png,sprite_0050_x140_y912.png,50,snow ice tree or bush,140,912,40,41,1124
+snow_ice_tree_or_bush_08.png,sprite_0051_x12_y915.png,51,snow ice tree or bush,12,915,40,37,1040
+snow_ice_tree_or_bush_09.png,sprite_0052_x72_y968.png,52,snow ice tree or bush,72,968,47,40,1030
+snow_ice_tree_or_bush_10.png,sprite_0053_x136_y968.png,53,snow ice tree or bush,136,968,47,40,1291
+snow_ice_tree_or_bush_11.png,sprite_0054_x9_y973.png,54,snow ice tree or bush,9,973,46,43,1438
+snowy_conifer_or_ice_formation_01.png,sprite_0055_x13_y1051.png,55,snowy conifer or ice formation,13,1051,37,32,578
+snowy_conifer_or_ice_formation_02.png,sprite_0056_x69_y1051.png,56,snowy conifer or ice formation,69,1051,53,55,1666
+snowy_conifer_or_ice_formation_03.png,sprite_0057_x133_y1050.png,57,snowy conifer or ice formation,133,1050,54,52,1553
+snowy_conifer_or_ice_formation_04.png,sprite_0058_x197_y1050.png,58,snowy conifer or ice formation,197,1050,54,51,1669
+snowy_conifer_or_ice_formation_05.png,sprite_0059_x6_y1079.png,59,snowy conifer or ice formation,6,1079,51,22,468
+snowy_conifer_or_ice_formation_06.png,sprite_0060_x5_y1091.png,60,snowy conifer or ice formation,5,1091,21,16,162
+snowy_conifer_or_ice_formation_07.png,sprite_0061_x3_y1145.png,61,snowy conifer or ice formation,3,1145,58,47,1575
+snowy_conifer_or_ice_formation_08.png,sprite_0062_x68_y1145.png,62,snowy conifer or ice formation,68,1145,57,46,1752
+snowy_conifer_or_ice_formation_09.png,sprite_0063_x138_y1150.png,63,snowy conifer or ice formation,138,1150,51,53,1530
+snowy_conifer_or_ice_formation_10.png,sprite_0064_x196_y1150.png,64,snowy conifer or ice formation,196,1150,56,53,2202
+small_tree_or_stump_01.png,sprite_0065_x200_y1232.png,65,small tree or stump,200,1232,48,48,1777
+small_tree_or_stump_02.png,sprite_0066_x12_y1234.png,66,small tree or stump,12,1234,40,46,1414
+small_tree_or_stump_03.png,sprite_0067_x78_y1235.png,67,small tree or stump,78,1235,36,45,1257
+small_tree_or_stump_04.png,sprite_0068_x139_y1235.png,68,small tree or stump,139,1235,42,45,1486
+tree_stump_01.png,sprite_0069_x74_y1293.png,69,tree stump,74,1293,44,51,1743
+stacked_tree_sprites_01.png,sprite_0070_x133_y1297.png,70,stacked tree sprites,133,1297,53,111,3707
+cactus_01.png,sprite_0071_x208_y1297.png,71,cactus,208,1297,32,47,1124
+small_conifer_01.png,sprite_0072_x3_y1301.png,72,small conifer,3,1301,26,43,698
+small_conifer_02.png,sprite_0073_x35_y1302.png,73,small conifer,35,1302,26,42,682
+icy_tree_01.png,sprite_0074_x200_y1350.png,74,icy tree,200,1350,48,58,2280
+tropical_plant_01.png,sprite_0075_x14_y1354.png,75,tropical plant,14,1354,36,54,1492
+special_plant_or_conifer_01.png,sprite_0076_x74_y1359.png,76,special plant or conifer,74,1359,42,49,1540
+dead_tree_trunk_01.png,sprite_0077_x144_y1415.png,77,dead tree trunk,144,1415,32,56,1528
+wide_dead_tree_trunk_01.png,sprite_0078_x200_y1414.png,78,wide dead tree trunk,200,1414,48,58,2454
+hanging_branch_pair_01.png,sprite_0079_x13_y1432.png,79,hanging branch pair,13,1432,100,40,2754
+bare_tree_01.png,sprite_0080_x135_y1473.png,80,bare tree,135,1473,49,63,1555
+bare_tree_or_rock_01.png,sprite_0081_x78_y1489.png,81,bare tree or rock,78,1489,38,47,919
+bare_tree_or_rock_02.png,sprite_0082_x205_y1488.png,82,bare tree or rock,205,1488,38,48,1338
+bare_tree_or_rock_03.png,sprite_0083_x11_y1490.png,83,bare tree or rock,11,1490,41,46,1439
+tiny_ground_detail_or_wood_debris_01.png,sprite_0084_x184_y1540.png,84,tiny ground detail or wood debris,184,1540,6,6,24
+tiny_ground_detail_or_wood_debris_02.png,sprite_0085_x161_y1544.png,85,tiny ground detail or wood debris,161,1544,6,6,24
+tiny_ground_detail_or_wood_debris_03.png,sprite_0086_x12_y1547.png,86,tiny ground detail or wood debris,12,1547,40,53,1506
+tiny_ground_detail_or_wood_debris_04.png,sprite_0087_x192_y1551.png,87,tiny ground detail or wood debris,192,1551,31,17,457
+tiny_ground_detail_or_wood_debris_05.png,sprite_0088_x178_y1554.png,88,tiny ground detail or wood debris,178,1554,6,6,24
+tiny_ground_detail_or_wood_debris_06.png,sprite_0089_x232_y1554.png,89,tiny ground detail or wood debris,232,1554,16,14,178
+tiny_ground_detail_or_wood_debris_07.png,sprite_0090_x109_y1556.png,90,tiny ground detail or wood debris,109,1556,38,44,1218
+tiny_ground_detail_or_wood_debris_08.png,sprite_0091_x72_y1564.png,91,tiny ground detail or wood debris,72,1564,16,36,462
+tiny_ground_detail_or_wood_debris_09.png,sprite_0092_x232_y1570.png,92,tiny ground detail or wood debris,232,1570,16,30,364
+tiny_ground_detail_or_wood_debris_10.png,sprite_0093_x185_y1572.png,93,tiny ground detail or wood debris,185,1572,6,6,24
+tiny_ground_detail_or_wood_debris_11.png,sprite_0094_x161_y1576.png,94,tiny ground detail or wood debris,161,1576,6,6,24
+tiny_ground_detail_or_wood_debris_12.png,sprite_0095_x192_y1582.png,95,tiny ground detail or wood debris,192,1582,31,18,480
+tiny_ground_detail_or_wood_debris_13.png,sprite_0096_x178_y1586.png,96,tiny ground detail or wood debris,178,1586,6,6,24
+tropical_tree_01.png,sprite_0097_x9_y1602.png,97,tropical tree,9,1602,81,126,7486
+tropical_tree_02.png,sprite_0098_x103_y1602.png,98,tropical tree,103,1602,83,126,7210
+tiny_ground_detail_or_wood_debris_14.png,sprite_0099_x192_y1615.png,99,tiny ground detail or wood debris,192,1615,31,17,460
+tiny_ground_detail_or_wood_debris_15.png,sprite_0100_x232_y1618.png,100,tiny ground detail or wood debris,232,1618,16,14,178
+small_plant_cactus_or_tree_01.png,sprite_0101_x200_y1644.png,101,small plant cactus or tree,200,1644,16,20,210
+small_plant_cactus_or_tree_02.png,sprite_0102_x233_y1644.png,102,small plant cactus or tree,233,1644,16,20,210
+small_plant_cactus_or_tree_03.png,sprite_0103_x200_y1665.png,103,small plant cactus or tree,200,1665,16,31,274
+small_plant_cactus_or_tree_04.png,sprite_0104_x232_y1674.png,104,small plant cactus or tree,232,1674,16,22,255
+small_plant_cactus_or_tree_05.png,sprite_0105_x199_y1697.png,105,small plant cactus or tree,199,1697,16,31,402
+small_plant_cactus_or_tree_06.png,sprite_0106_x233_y1697.png,106,small plant cactus or tree,233,1697,16,31,348
+small_plant_cactus_or_tree_07.png,sprite_0107_x233_y1729.png,107,small plant cactus or tree,233,1729,16,31,358
+tropical_tree_03.png,sprite_0108_x8_y1730.png,108,tropical tree,8,1730,80,126,7483
+tropical_tree_04.png,sprite_0109_x102_y1730.png,109,tropical tree,102,1730,82,126,7207
+grass_patch_01.png,sprite_0110_x192_y1736.png,110,grass patch,192,1736,32,24,558
+tree_stump_top_01.png,sprite_0111_x192_y1762.png,111,tree stump top,192,1762,32,30,728
+succulent_cluster_01.png,sprite_0112_x233_y1766.png,112,succulent cluster,233,1766,16,26,295
+cactus_02.png,sprite_0113_x193_y1795.png,113,cactus,193,1795,30,29,586
+cactus_03.png,sprite_0114_x225_y1795.png,114,cactus,225,1795,30,29,590
+tropical_tree_05.png,sprite_0115_x8_y1858.png,115,tropical tree,8,1858,80,126,7483
+tropical_tree_06.png,sprite_0116_x103_y1858.png,116,tropical tree,103,1858,82,126,7207
+grassland_ground_tile_01.png,sprite_0117_x16_y2000.png,117,grassland ground tile,16,2000,64,64,4096
+grassland_ground_tile_02.png,sprite_0118_x112_y2000.png,118,grassland ground tile,112,2000,64,64,1324
+grassland_ground_tile_03.png,sprite_0119_x208_y2000.png,119,grassland ground tile,208,2000,32,32,1024
+grassland_ground_tile_04.png,sprite_0120_x219_y2075.png,120,grassland ground tile,219,2075,10,10,80
+grassland_ground_tile_05.png,sprite_0121_x16_y2096.png,121,grassland ground tile,16,2096,64,64,1491
+grassland_ground_tile_06.png,sprite_0122_x112_y2096.png,122,grassland ground tile,112,2096,64,64,1482
+grassland_ground_tile_07.png,sprite_0123_x218_y2136.png,123,grassland ground tile,218,2136,12,14,105
+grassland_ground_tile_08.png,sprite_0124_x232_y2183.png,124,grassland ground tile,232,2183,16,16,160
+grassland_ground_tile_09.png,sprite_0125_x16_y2192.png,125,grassland ground tile,16,2192,64,64,4096
+grassland_ground_tile_10.png,sprite_0126_x112_y2192.png,126,grassland ground tile,112,2192,32,32,1024
+grassland_ground_tile_11.png,sprite_0127_x186_y2200.png,127,grassland ground tile,186,2200,12,14,105
+repeated_plant_strip_01.png,sprite_0128_x224_y2208.png,128,repeated plant strip,224,2208,32,78,1636
+grass_tile_strip_01.png,sprite_0129_x0_y2240.png,129,grass tile strip,0,2240,256,192,22116
+grass_plant_flower_or_tuft_01.png,sprite_0130_x200_y2247.png,130,grass plant flower or tuft,200,2247,16,16,190
+grass_plant_flower_or_tuft_02.png,sprite_0131_x136_y2279.png,131,grass plant flower or tuft,136,2279,15,16,199
+grass_plant_flower_or_tuft_03.png,sprite_0132_x200_y2279.png,132,grass plant flower or tuft,200,2279,15,14,118
+grass_plant_flower_or_tuft_04.png,sprite_0133_x224_y2289.png,133,grass plant flower or tuft,224,2289,15,14,118
+grass_plant_flower_or_tuft_05.png,sprite_0134_x241_y2289.png,134,grass plant flower or tuft,241,2289,15,14,118
+grass_plant_flower_or_tuft_06.png,sprite_0135_x224_y2304.png,135,grass plant flower or tuft,224,2304,32,16,372
+grass_plant_flower_or_tuft_07.png,sprite_0136_x200_y2311.png,136,grass plant flower or tuft,200,2311,16,16,186
+grass_plant_flower_or_tuft_08.png,sprite_0137_x41_y2312.png,137,grass plant flower or tuft,41,2312,14,15,162
+grass_plant_flower_or_tuft_09.png,sprite_0138_x10_y2315.png,138,grass plant flower or tuft,10,2315,10,10,76
+grass_plant_flower_or_tuft_10.png,sprite_0139_x40_y2343.png,139,grass plant flower or tuft,40,2343,13,15,150
+grass_plant_flower_or_tuft_11.png,sprite_0140_x10_y2344.png,140,grass plant flower or tuft,10,2344,14,15,162
+grass_plant_flower_or_tuft_12.png,sprite_0141_x9_y2376.png,141,grass plant flower or tuft,9,2376,14,15,155
+grass_plant_flower_or_tuft_13.png,sprite_0142_x41_y2377.png,142,grass plant flower or tuft,41,2377,13,13,120
+grass_plant_flower_or_tuft_14.png,sprite_0143_x200_y2377.png,143,grass plant flower or tuft,200,2377,16,16,190
+tiny_plant_detail_or_flower_01.png,sprite_0144_x64_y2384.png,144,tiny plant detail or flower,64,2384,8,7,36
+tiny_plant_detail_or_flower_02.png,sprite_0145_x80_y2384.png,145,tiny plant detail or flower,80,2384,8,7,36
+tiny_plant_detail_or_flower_03.png,sprite_0146_x96_y2384.png,146,tiny plant detail or flower,96,2384,8,7,36
+tiny_plant_detail_or_flower_04.png,sprite_0147_x112_y2384.png,147,tiny plant detail or flower,112,2384,8,7,36
+tiny_plant_detail_or_flower_05.png,sprite_0148_x129_y2384.png,148,tiny plant detail or flower,129,2384,8,7,36
+tiny_plant_detail_or_flower_06.png,sprite_0149_x160_y2384.png,149,tiny plant detail or flower,160,2384,8,7,36
+tiny_plant_detail_or_flower_07.png,sprite_0150_x176_y2384.png,150,tiny plant detail or flower,176,2384,8,7,36
+tiny_plant_detail_or_flower_08.png,sprite_0151_x8_y2409.png,151,tiny plant detail or flower,8,2409,14,15,152
+tiny_plant_detail_or_flower_09.png,sprite_0152_x72_y2409.png,152,tiny plant detail or flower,72,2409,8,7,36
+tiny_plant_detail_or_flower_10.png,sprite_0153_x73_y2409.png,153,tiny plant detail or flower,73,2409,15,16,106
+tiny_plant_detail_or_flower_11.png,sprite_0154_x104_y2408.png,154,tiny plant detail or flower,104,2408,8,7,36
+tiny_plant_detail_or_flower_12.png,sprite_0155_x105_y2408.png,155,tiny plant detail or flower,105,2408,15,16,106
+tiny_plant_detail_or_flower_13.png,sprite_0156_x135_y2408.png,156,tiny plant detail or flower,135,2408,8,7,36
+tiny_plant_detail_or_flower_14.png,sprite_0157_x136_y2408.png,157,tiny plant detail or flower,136,2408,15,16,106
+tiny_plant_detail_or_flower_15.png,sprite_0158_x168_y2408.png,158,tiny plant detail or flower,168,2408,8,7,36
+tiny_plant_detail_or_flower_16.png,sprite_0159_x169_y2408.png,159,tiny plant detail or flower,169,2408,15,16,106
+tiny_plant_detail_or_flower_17.png,sprite_0160_x200_y2409.png,160,tiny plant detail or flower,200,2409,16,16,190
+tiny_plant_detail_or_flower_18.png,sprite_0161_x96_y2432.png,161,tiny plant detail or flower,96,2432,15,15,119
+tiny_plant_detail_or_flower_19.png,sprite_0162_x112_y2432.png,162,tiny plant detail or flower,112,2432,15,15,119
+tiny_plant_detail_or_flower_20.png,sprite_0163_x128_y2432.png,163,tiny plant detail or flower,128,2432,16,15,116
+tiny_plant_detail_or_flower_21.png,sprite_0164_x144_y2432.png,164,tiny plant detail or flower,144,2432,32,16,237
+tiny_plant_detail_or_flower_22.png,sprite_0165_x176_y2432.png,165,tiny plant detail or flower,176,2432,16,15,121
+yellow_grass_ground_tile_01.png,sprite_0166_x16_y2448.png,166,yellow grass ground tile,16,2448,64,64,3977
+ground_path_water_or_grass_tile_01.png,sprite_0167_x96_y2448.png,167,ground path water or grass tile,96,2448,15,15,119
+ground_path_water_or_grass_tile_02.png,sprite_0168_x112_y2448.png,168,ground path water or grass tile,112,2448,15,15,119
+ground_path_water_or_grass_tile_03.png,sprite_0169_x128_y2448.png,169,ground path water or grass tile,128,2448,16,15,116
+ground_path_water_or_grass_tile_04.png,sprite_0170_x144_y2448.png,170,ground path water or grass tile,144,2448,16,15,116
+ground_path_water_or_grass_tile_05.png,sprite_0171_x160_y2448.png,171,ground path water or grass tile,160,2448,16,15,121
+ground_path_water_or_grass_tile_06.png,sprite_0172_x176_y2448.png,172,ground path water or grass tile,176,2448,16,15,121
+ground_path_water_or_grass_tile_07.png,sprite_0173_x106_y2473.png,173,ground path water or grass tile,106,2473,15,15,119
+ground_path_water_or_grass_tile_08.png,sprite_0174_x136_y2472.png,174,ground path water or grass tile,136,2472,16,15,116
+ground_path_water_or_grass_tile_09.png,sprite_0175_x168_y2474.png,175,ground path water or grass tile,168,2474,16,15,121
+brown_stone_ground_tile_01.png,sprite_0176_x112_y2512.png,176,brown stone ground tile,112,2512,64,64,4096
+ground_path_water_or_grass_tile_10.png,sprite_0177_x208_y2512.png,177,ground path water or grass tile,208,2512,32,32,1024
+dirt_ground_tile_01.png,sprite_0178_x16_y2544.png,178,dirt ground tile,16,2544,64,64,4096
+ground_path_water_or_grass_tile_11.png,sprite_0179_x208_y2577.png,179,ground path water or grass tile,208,2577,32,32,1024
+ground_path_water_or_grass_tile_12.png,sprite_0180_x112_y2608.png,180,ground path water or grass tile,112,2608,64,64,4096
+snow_ground_tile_01.png,sprite_0181_x19_y2640.png,181,snow ground tile,19,2640,58,63,3146
+ground_path_water_or_grass_tile_13.png,sprite_0182_x208_y2640.png,182,ground path water or grass tile,208,2640,32,32,1024
+ground_path_water_or_grass_tile_14.png,sprite_0183_x160_y2688.png,183,ground path water or grass tile,160,2688,96,96,4592
+ground_path_water_or_grass_tile_15.png,sprite_0184_x168_y2696.png,184,ground path water or grass tile,168,2696,16,16,256
+ground_path_water_or_grass_tile_16.png,sprite_0185_x112_y2704.png,185,ground path water or grass tile,112,2704,32,32,982
+ground_path_water_or_grass_tile_17.png,sprite_0186_x199_y2729.png,186,ground path water or grass tile,199,2729,16,16,190
+snow_edge_tile_01.png,sprite_0187_x19_y2742.png,187,snow edge tile,19,2742,58,55,2727
+ground_path_water_or_grass_tile_18.png,sprite_0188_x168_y2755.png,188,ground path water or grass tile,168,2755,16,29,416
+ground_path_water_or_grass_tile_19.png,sprite_0189_x201_y2759.png,189,ground path water or grass tile,201,2759,16,16,190
+ground_path_water_or_grass_tile_20.png,sprite_0190_x112_y2768.png,190,ground path water or grass tile,112,2768,32,32,992
+ground_path_water_or_grass_tile_21.png,sprite_0191_x160_y2787.png,191,ground path water or grass tile,160,2787,32,29,832
+ground_path_water_or_grass_tile_22.png,sprite_0192_x200_y2789.png,192,ground path water or grass tile,200,2789,16,23,325
+ground_path_water_or_grass_tile_23.png,sprite_0193_x224_y2793.png,193,ground path water or grass tile,224,2793,32,23,650
+grass_dirt_transition_tile_01.png,sprite_0194_x0_y2816.png,194,grass dirt transition tile,0,2816,96,32,2566
+ground_path_water_or_grass_tile_24.png,sprite_0195_x136_y2819.png,195,ground path water or grass tile,136,2819,16,29,416
+ground_path_water_or_grass_tile_25.png,sprite_0196_x160_y2819.png,196,ground path water or grass tile,160,2819,96,45,2274
+small_plant_or_rock_detail_01.png,sprite_0197_x105_y2825.png,197,small plant or rock detail,105,2825,14,15,162
+small_plant_or_rock_detail_02.png,sprite_0198_x200_y2857.png,198,small plant or rock detail,200,2857,15,16,172
+small_plant_or_rock_detail_03.png,sprite_0199_x105_y2858.png,199,small plant or rock detail,105,2858,7,7,32
+small_plant_or_rock_detail_04.png,sprite_0200_x137_y2858.png,200,small plant or rock detail,137,2858,14,12,118
+small_plant_or_rock_detail_05.png,sprite_0201_x112_y2863.png,201,small plant or rock detail,112,2863,7,7,32
+small_plant_or_rock_detail_06.png,sprite_0202_x224_y2864.png,202,small plant or rock detail,224,2864,15,16,172
+small_plant_or_rock_detail_07.png,sprite_0203_x240_y2864.png,203,small plant or rock detail,240,2864,15,16,172
+small_plant_or_rock_detail_08.png,sprite_0204_x167_y2866.png,204,small plant or rock detail,167,2866,10,10,50
+brown_dirt_patch_01.png,sprite_0205_x21_y2875.png,205,brown dirt patch,21,2875,54,41,2132
+small_plant_or_rock_detail_09.png,sprite_0206_x106_y2890.png,206,small plant or rock detail,106,2890,13,10,94
+small_plant_or_rock_detail_10.png,sprite_0207_x171_y2891.png,207,small plant or rock detail,171,2891,11,13,85
+small_plant_or_rock_detail_11.png,sprite_0208_x200_y2891.png,208,small plant or rock detail,200,2891,14,8,76
+small_plant_or_rock_detail_12.png,sprite_0209_x234_y2890.png,209,small plant or rock detail,234,2890,14,14,154
+small_plant_or_rock_detail_13.png,sprite_0210_x138_y2892.png,210,small plant or rock detail,138,2892,13,8,78
+water_ground_tile_01.png,sprite_0211_x128_y2912.png,211,water ground tile,128,2912,32,32,1024
+terrain_tile_or_plant_01.png,sprite_0212_x170_y2919.png,212,terrain tile or plant,170,2919,10,14,67
+terrain_tile_or_plant_02.png,sprite_0213_x225_y2919.png,213,terrain tile or plant,225,2919,20,15,229
+terrain_tile_or_plant_03.png,sprite_0214_x202_y2925.png,214,terrain tile or plant,202,2925,7,8,41
+terrain_tile_or_plant_04.png,sprite_0215_x246_y2924.png,215,terrain tile or plant,246,2924,8,9,56
+stone_floor_tile_01.png,sprite_0216_x111_y2959.png,216,stone floor tile,111,2959,64,64,4096
+terrain_tile_or_plant_05.png,sprite_0217_x208_y2959.png,217,terrain tile or plant,208,2959,32,32,1024
+checkered_stone_floor_tile_01.png,sprite_0218_x16_y2960.png,218,checkered stone floor tile,16,2960,64,64,4096
+terrain_tile_or_plant_06.png,sprite_0219_x208_y3024.png,219,terrain tile or plant,208,3024,32,32,1024
+terrain_tile_or_plant_07.png,sprite_0220_x96_y3040.png,220,terrain tile or plant,96,3040,64,32,2048
+terrain_tile_or_plant_08.png,sprite_0221_x162_y3045.png,221,terrain tile or plant,162,3045,25,21,332
+sandstone_floor_tile_01.png,sprite_0222_x15_y3056.png,222,sandstone floor tile,15,3056,64,64,4096
+terrain_tile_or_plant_09.png,sprite_0223_x161_y3072.png,223,terrain tile or plant,161,3072,30,64,1384
+terrain_tile_or_plant_10.png,sprite_0224_x109_y3083.png,224,terrain tile or plant,109,3083,7,9,33
+terrain_tile_or_plant_11.png,sprite_0225_x208_y3088.png,225,terrain tile or plant,208,3088,32,32,1024
+terrain_tile_or_plant_12.png,sprite_0226_x129_y3100.png,226,terrain tile or plant,129,3100,30,36,706
+red_ground_tile_01.png,sprite_0227_x16_y3152.png,227,red ground tile,16,3152,64,64,3872
+terrain_tile_or_plant_13.png,sprite_0228_x208_y3152.png,228,terrain tile or plant,208,3152,32,32,1020
+terrain_tile_or_plant_14.png,sprite_0229_x115_y3156.png,229,terrain tile or plant,115,3156,58,55,2728
+terrain_tile_or_plant_15.png,sprite_0230_x208_y3216.png,230,terrain tile or plant,208,3216,32,32,992
+mixed_stone_ground_tile_01.png,sprite_0231_x0_y3232.png,231,mixed stone ground tile,0,3232,64,64,4096
+terrain_tile_or_plant_16.png,sprite_0232_x160_y3232.png,232,terrain tile or plant,160,3232,32,32,1024
+round_stone_floor_tile_01.png,sprite_0233_x80_y3248.png,233,round stone floor tile,80,3248,64,64,3720
+terrain_tile_or_plant_17.png,sprite_0234_x174_y3277.png,234,terrain tile or plant,174,3277,70,40,2409
+terrain_tile_or_plant_18.png,sprite_0235_x16_y3344.png,235,terrain tile or plant,16,3344,64,64,760
+terrain_tile_or_plant_19.png,sprite_0236_x112_y3344.png,236,terrain tile or plant,112,3344,64,64,4096
+terrain_tile_or_plant_20.png,sprite_0237_x219_y3358.png,237,terrain tile or plant,219,3358,10,4,28
+terrain_tile_or_plant_21.png,sprite_0238_x208_y3408.png,238,terrain tile or plant,208,3408,32,32,1024
+red_brick_floor_tile_01.png,sprite_0239_x96_y3424.png,239,red brick floor tile,96,3424,64,64,4096
+terrain_tile_or_plant_22.png,sprite_0240_x16_y3440.png,240,terrain tile or plant,16,3440,64,64,4096
+terrain_tile_or_plant_23.png,sprite_0241_x176_y3472.png,241,terrain tile or plant,176,3472,64,64,4096
+terrain_tile_or_plant_24.png,sprite_0242_x112_y3504.png,242,terrain tile or plant,112,3504,32,32,1024
+terrain_tile_or_plant_25.png,sprite_0243_x32_y3520.png,243,terrain tile or plant,32,3520,64,32,2048
+terrain_tile_or_plant_26.png,sprite_0244_x10_y3528.png,244,terrain tile or plant,10,3528,15,16,134
+sand_island_water_tile_01.png,sprite_0245_x16_y3568.png,245,sand island water tile,16,3568,64,64,4096
+water_tile_or_water_edge_01.png,sprite_0246_x112_y3568.png,246,water tile or water edge,112,3568,64,64,4096
+water_tile_or_water_edge_02.png,sprite_0247_x208_y3568.png,247,water tile or water edge,208,3568,32,32,1024
+water_tile_or_water_edge_03.png,sprite_0248_x208_y3632.png,248,water tile or water edge,208,3632,32,32,1024
+blue_water_tile_01.png,sprite_0249_x16_y3663.png,249,blue water tile,16,3663,64,64,4096
+water_tile_or_water_edge_04.png,sprite_0250_x112_y3663.png,250,water tile or water edge,112,3663,64,64,4096
+water_tile_or_water_edge_05.png,sprite_0251_x192_y3680.png,251,water tile or water edge,192,3680,32,64,2048
+sand_island_tile_01.png,sprite_0252_x16_y3760.png,252,sand island tile,16,3760,64,64,4096
+water_tile_or_water_edge_06.png,sprite_0253_x112_y3760.png,253,water tile or water edge,112,3760,64,64,4096
+water_tile_or_water_edge_07.png,sprite_0254_x208_y3760.png,254,water tile or water edge,208,3760,32,32,1024
+water_tile_or_water_edge_08.png,sprite_0255_x208_y3824.png,255,water tile or water edge,208,3824,32,32,1024
+deep_blue_water_tile_01.png,sprite_0256_x16_y3856.png,256,deep blue water tile,16,3856,64,64,4096
+water_edge_tile_01.png,sprite_0257_x112_y3856.png,257,water edge tile,112,3856,64,64,4096
+water_tile_or_water_edge_09.png,sprite_0258_x208_y3888.png,258,water tile or water edge,208,3888,32,32,1024
+water_tile_or_water_edge_10.png,sprite_0259_x96_y3936.png,259,water tile or water edge,96,3936,32,16,512
+water_tile_or_water_edge_11.png,sprite_0260_x144_y3952.png,260,water tile or water edge,144,3952,32,32,1024
+water_tile_or_water_edge_12.png,sprite_0261_x208_y3952.png,261,water tile or water edge,208,3952,32,32,1024
+water_tile_or_water_edge_13.png,sprite_0262_x96_y3968.png,262,water tile or water edge,96,3968,32,32,1024
+dark_water_tile_01.png,sprite_0263_x16_y4017.png,263,dark water tile,16,4017,64,64,4096
+water_border_tile_01.png,sprite_0264_x112_y4017.png,264,water border tile,112,4017,64,64,2938
+water_tile_or_water_edge_14.png,sprite_0265_x208_y4017.png,265,water tile or water edge,208,4017,32,32,1024
+water_tile_or_water_edge_15.png,sprite_0266_x208_y4080.png,266,water tile or water edge,208,4080,32,32,1012
+blue_pool_tile_01.png,sprite_0267_x17_y4113.png,267,blue pool tile,17,4113,62,62,3664
+blue_pool_tile_02.png,sprite_0268_x112_y4112.png,268,blue pool tile,112,4112,64,64,4096
+water_tile_or_water_edge_16.png,sprite_0269_x208_y4144.png,269,water tile or water edge,208,4144,32,32,1024
+rocky_water_tile_01.png,sprite_0270_x16_y4208.png,270,rocky water tile,16,4208,64,64,4096
+rocky_water_border_tile_01.png,sprite_0271_x115_y4208.png,271,rocky water border tile,115,4208,57,63,3169
+water_tile_or_water_edge_17.png,sprite_0272_x208_y4208.png,272,water tile or water edge,208,4208,32,32,1024
+water_tile_or_water_edge_18.png,sprite_0273_x208_y4272.png,273,water tile or water edge,208,4272,32,32,1024
+water_tile_or_water_edge_19.png,sprite_0274_x32_y4288.png,274,water tile or water edge,32,4288,16,16,256
+water_tile_or_water_edge_20.png,sprite_0275_x64_y4288.png,275,water tile or water edge,64,4288,16,16,256
+water_tile_or_water_edge_21.png,sprite_0276_x96_y4288.png,276,water tile or water edge,96,4288,16,16,256
+water_strip_tile_01.png,sprite_0277_x128_y4288.png,277,water strip tile,128,4288,64,43,2158
+water_tile_or_water_edge_22.png,sprite_0278_x16_y4320.png,278,water tile or water edge,16,4320,64,16,1021
+water_tile_or_water_edge_23.png,sprite_0279_x209_y4320.png,279,water tile or water edge,209,4320,15,16,208
+water_tile_or_water_edge_24.png,sprite_0280_x240_y4320.png,280,water tile or water edge,240,4320,16,16,256
+water_tile_or_water_edge_25.png,sprite_0281_x96_y4337.png,281,water tile or water edge,96,4337,16,15,231
+water_tile_or_water_edge_26.png,sprite_0282_x160_y4336.png,282,water tile or water edge,160,4336,15,16,232
+water_tile_or_water_edge_27.png,sprite_0283_x17_y4369.png,283,water tile or water edge,17,4369,62,62,3664
+water_tile_or_water_edge_28.png,sprite_0284_x113_y4369.png,284,water tile or water edge,113,4369,62,52,3009
+water_tile_or_water_edge_29.png,sprite_0285_x208_y4368.png,285,water tile or water edge,208,4368,32,32,1012
+water_tile_or_water_edge_30.png,sprite_0286_x208_y4432.png,286,water tile or water edge,208,4432,32,32,964
+wave_water_strip_01.png,sprite_0287_x21_y4467.png,287,wave water strip,21,4467,54,64,3290
+lava_or_red_wave_strip_01.png,sprite_0288_x117_y4467.png,288,lava or red wave strip,117,4467,54,64,3290
+water_tile_or_water_edge_31.png,sprite_0289_x208_y4496.png,289,water tile or water edge,208,4496,32,32,768
+red_ground_border_tile_01.png,sprite_0290_x17_y4561.png,290,red ground border tile,17,4561,62,62,3664
+dark_ground_border_tile_01.png,sprite_0291_x112_y4560.png,291,dark ground border tile,112,4560,64,63,3558
+water_tile_or_water_edge_32.png,sprite_0292_x208_y4560.png,292,water tile or water edge,208,4560,32,32,1012
+water_tile_or_water_edge_33.png,sprite_0293_x208_y4624.png,293,water tile or water edge,208,4624,32,32,1018
+water_tile_or_water_edge_34.png,sprite_0294_x41_y4648.png,294,water tile or water edge,41,4648,15,15,177
+water_tile_or_water_edge_35.png,sprite_0295_x73_y4649.png,295,water tile or water edge,73,4649,15,15,177
+water_tile_or_water_edge_36.png,sprite_0296_x105_y4649.png,296,water tile or water edge,105,4649,15,15,177
+water_tile_or_water_edge_37.png,sprite_0297_x137_y4648.png,297,water tile or water edge,137,4648,10,7,54
+water_tile_or_water_edge_38.png,sprite_0298_x168_y4648.png,298,water tile or water edge,168,4648,14,15,152
+icy_water_border_tile_01.png,sprite_0299_x17_y4689.png,299,icy water border tile,17,4689,62,62,3664
+water_tile_or_water_edge_39.png,sprite_0300_x112_y4688.png,300,water tile or water edge,112,4688,32,32,1012
+terrain_platform_or_ground_tile_01.png,sprite_0301_x180_y4691.png,301,terrain platform or ground tile,180,4691,54,64,3290
+terrain_platform_or_ground_tile_02.png,sprite_0302_x18_y4784.png,302,terrain platform or ground tile,18,4784,60,64,3619
+snow_ground_border_tile_01.png,sprite_0303_x112_y4784.png,303,snow ground border tile,112,4784,64,64,3844
+terrain_platform_or_ground_tile_03.png,sprite_0304_x208_y4784.png,304,terrain platform or ground tile,208,4784,32,32,1024
+terrain_platform_or_ground_tile_04.png,sprite_0305_x208_y4848.png,305,terrain platform or ground tile,208,4848,32,32,1020
+terrain_platform_or_ground_tile_05.png,sprite_0306_x148_y4864.png,306,terrain platform or ground tile,148,4864,24,4,54
+terrain_platform_or_ground_tile_06.png,sprite_0307_x85_y4885.png,307,terrain platform or ground tile,85,4885,22,11,200
+rock_ground_border_tile_01.png,sprite_0308_x16_y4912.png,308,rock ground border tile,16,4912,64,64,3850
+rock_ground_border_tile_02.png,sprite_0309_x112_y4912.png,309,rock ground border tile,112,4912,64,64,1712
+terrain_platform_or_ground_tile_07.png,sprite_0310_x208_y4912.png,310,terrain platform or ground tile,208,4912,32,32,1024
+terrain_platform_or_ground_tile_08.png,sprite_0311_x208_y4976.png,311,terrain platform or ground tile,208,4976,32,32,1020
+grass_ground_border_tile_01.png,sprite_0312_x16_y5008.png,312,grass ground border tile,16,5008,64,64,3844
+terrain_platform_or_ground_tile_09.png,sprite_0313_x114_y5008.png,313,terrain platform or ground tile,114,5008,60,64,3627
+terrain_platform_or_ground_tile_10.png,sprite_0314_x208_y5040.png,314,terrain platform or ground tile,208,5040,32,32,1024
+brown_ground_tile_01.png,sprite_0315_x16_y5104.png,315,brown ground tile,16,5104,64,64,3731
+grey_ground_tile_01.png,sprite_0316_x112_y5104.png,316,grey ground tile,112,5104,64,64,3846
+terrain_platform_or_ground_tile_11.png,sprite_0317_x208_y5104.png,317,terrain platform or ground tile,208,5104,32,16,512
+terrain_platform_or_ground_tile_12.png,sprite_0318_x208_y5136.png,318,terrain platform or ground tile,208,5136,32,32,1020
+terrain_platform_or_ground_tile_13.png,sprite_0319_x208_y5200.png,319,terrain platform or ground tile,208,5200,32,32,998
+terrain_platform_or_ground_tile_14.png,sprite_0320_x16_y5205.png,320,terrain platform or ground tile,16,5205,64,59,3532
+terrain_platform_or_ground_tile_15.png,sprite_0321_x112_y5205.png,321,terrain platform or ground tile,112,5205,64,59,3554
+terrain_platform_or_ground_tile_16.png,sprite_0322_x208_y5264.png,322,terrain platform or ground tile,208,5264,32,32,998
+terrain_platform_or_ground_tile_17.png,sprite_0323_x80_y5280.png,323,terrain platform or ground tile,80,5280,32,16,512
+terrain_platform_or_ground_tile_18.png,sprite_0324_x16_y5296.png,324,terrain platform or ground tile,16,5296,32,16,512
+blue_ground_tile_01.png,sprite_0325_x16_y5328.png,325,blue ground tile,16,5328,64,64,4096
+grass_island_tile_01.png,sprite_0326_x112_y5328.png,326,grass island tile,112,5328,64,63,3854
+terrain_platform_or_ground_tile_19.png,sprite_0327_x208_y5328.png,327,terrain platform or ground tile,208,5328,32,32,1024
+terrain_platform_or_ground_tile_20.png,sprite_0328_x208_y5392.png,328,terrain platform or ground tile,208,5392,32,32,1006
+terrain_platform_or_ground_tile_21.png,sprite_0329_x112_y5424.png,329,terrain platform or ground tile,112,5424,64,64,4096
+terrain_platform_or_ground_tile_22.png,sprite_0330_x16_y5429.png,330,terrain platform or ground tile,16,5429,63,59,3538
+terrain_platform_or_ground_tile_23.png,sprite_0331_x208_y5456.png,331,terrain platform or ground tile,208,5456,32,32,1024
+terrain_platform_or_ground_tile_24.png,sprite_0332_x161_y5504.png,332,terrain platform or ground tile,161,5504,63,32,1390
+terrain_platform_or_ground_tile_25.png,sprite_0333_x234_y5515.png,333,terrain platform or ground tile,234,5515,13,10,96
+terrain_platform_or_ground_tile_26.png,sprite_0334_x40_y5520.png,334,terrain platform or ground tile,40,5520,48,16,634
+terrain_platform_or_ground_tile_27.png,sprite_0335_x104_y5520.png,335,terrain platform or ground tile,104,5520,48,16,627
+blue_ground_tile_02.png,sprite_0336_x16_y5550.png,336,blue ground tile,16,5550,64,64,4096
+terrain_platform_or_ground_tile_28.png,sprite_0337_x208_y5550.png,337,terrain platform or ground tile,208,5550,32,32,1024
+terrain_platform_or_ground_tile_29.png,sprite_0338_x112_y5553.png,338,terrain platform or ground tile,112,5553,64,61,3601
+terrain_platform_or_ground_tile_30.png,sprite_0339_x208_y5614.png,339,terrain platform or ground tile,208,5614,32,32,1012
+terrain_platform_or_ground_tile_31.png,sprite_0340_x80_y5632.png,340,terrain platform or ground tile,80,5632,32,14,442
+terrain_platform_or_ground_tile_32.png,sprite_0341_x16_y5646.png,341,terrain platform or ground tile,16,5646,32,18,570
+sand_island_tile_02.png,sprite_0342_x112_y5678.png,342,sand island tile,112,5678,64,64,4096
+terrain_platform_or_ground_tile_33.png,sprite_0343_x16_y5681.png,343,terrain platform or ground tile,16,5681,64,61,3601
+terrain_platform_or_ground_tile_34.png,sprite_0344_x208_y5680.png,344,terrain platform or ground tile,208,5680,32,32,1024
+terrain_platform_or_ground_tile_35.png,sprite_0345_x208_y5744.png,345,terrain platform or ground tile,208,5744,32,32,1024
+grass_island_water_tile_01.png,sprite_0346_x112_y5776.png,346,grass island water tile,112,5776,64,64,4096
+terrain_platform_or_ground_tile_36.png,sprite_0347_x16_y5779.png,347,terrain platform or ground tile,16,5779,64,77,4682
+terrain_platform_or_ground_tile_37.png,sprite_0348_x208_y5808.png,348,terrain platform or ground tile,208,5808,32,48,1524
+sand_island_water_tile_02.png,sprite_0349_x112_y5872.png,349,sand island water tile,112,5872,64,80,5120
+terrain_platform_or_ground_tile_38.png,sprite_0350_x208_y5872.png,350,terrain platform or ground tile,208,5872,32,48,1524
+terrain_platform_or_ground_tile_39.png,sprite_0351_x16_y5875.png,351,terrain platform or ground tile,16,5875,64,77,4682
+terrain_platform_or_ground_tile_40.png,sprite_0352_x176_y5936.png,352,terrain platform or ground tile,176,5936,80,160,6596
+terrain_platform_or_ground_tile_41.png,sprite_0353_x16_y5968.png,353,terrain platform or ground tile,16,5968,32,48,1536
+terrain_platform_or_ground_tile_42.png,sprite_0354_x112_y5968.png,354,terrain platform or ground tile,112,5968,32,48,1536
+terrain_tile_sheet_01.png,sprite_0355_x0_y6032.png,355,terrain tile sheet,0,6032,184,128,18291
+terrain_platform_or_ground_tile_43.png,sprite_0356_x200_y6112.png,356,terrain platform or ground tile,200,6112,48,48,2133
+sand_border_frame_01.png,sprite_0357_x0_y6176.png,357,sand border frame,0,6176,64,64,1889
+small_rock_or_gem_01.png,sprite_0358_x129_y6179.png,358,small rock or gem,129,6179,29,28,531
+small_rock_or_gem_02.png,sprite_0359_x161_y6179.png,359,small rock or gem,161,6179,29,28,531
+small_rock_or_gem_03.png,sprite_0360_x193_y6179.png,360,small rock or gem,193,6179,29,28,531
+small_rock_or_gem_04.png,sprite_0361_x71_y6183.png,361,small rock or gem,71,6183,51,51,1327
+small_rock_or_gem_05.png,sprite_0362_x233_y6184.png,362,small rock or gem,233,6184,15,14,161
+small_rock_or_gem_06.png,sprite_0363_x130_y6211.png,363,small rock or gem,130,6211,28,28,560
+small_rock_or_gem_07.png,sprite_0364_x162_y6211.png,364,small rock or gem,162,6211,28,28,560
+small_rock_or_gem_08.png,sprite_0365_x194_y6211.png,365,small rock or gem,194,6211,28,28,560
+small_rock_or_gem_09.png,sprite_0366_x232_y6216.png,366,small rock or gem,232,6216,15,14,170
+small_rock_or_gem_10.png,sprite_0367_x40_y6248.png,367,small rock or gem,40,6248,15,14,161
+small_rock_or_gem_11.png,sprite_0368_x73_y6248.png,368,small rock or gem,73,6248,15,14,170
+small_rock_or_gem_12.png,sprite_0369_x105_y6249.png,369,small rock or gem,105,6249,15,13,142
+small_rock_or_gem_13.png,sprite_0370_x137_y6248.png,370,small rock or gem,137,6248,15,14,170
+small_rock_or_gem_14.png,sprite_0371_x169_y6249.png,371,small rock or gem,169,6249,15,14,161
+small_rock_or_gem_15.png,sprite_0372_x201_y6249.png,372,small rock or gem,201,6249,15,13,142
+small_rock_or_gem_16.png,sprite_0373_x9_y6250.png,373,small rock or gem,9,6250,14,15,158
+small_rock_or_gem_17.png,sprite_0374_x233_y6250.png,374,small rock or gem,233,6250,15,13,142
+small_rock_or_gem_18.png,sprite_0375_x2_y6275.png,375,small rock or gem,2,6275,27,27,475
+small_rock_or_gem_19.png,sprite_0376_x34_y6275.png,376,small rock or gem,34,6275,27,27,478
+small_rock_or_gem_20.png,sprite_0377_x104_y6274.png,377,small rock or gem,104,6274,15,29,313
+small_rock_or_gem_21.png,sprite_0378_x137_y6276.png,378,small rock or gem,137,6276,15,25,282
+small_rock_or_gem_22.png,sprite_0379_x232_y6276.png,379,small rock or gem,232,6276,16,25,304
+small_rock_or_gem_23.png,sprite_0380_x72_y6281.png,380,small rock or gem,72,6281,14,15,158
+small_rock_or_gem_24.png,sprite_0381_x167_y6281.png,381,small rock or gem,167,6281,17,16,212
+small_rock_or_gem_25.png,sprite_0382_x201_y6282.png,382,small rock or gem,201,6282,15,15,171
+rock_cluster_01.png,sprite_0383_x0_y6304.png,383,rock cluster,0,6304,96,64,3740
+lava_rock_01.png,sprite_0384_x160_y6304.png,384,lava rock,160,6304,32,32,793
+rock_cluster_or_mineral_01.png,sprite_0385_x100_y6307.png,385,rock cluster or mineral,100,6307,24,27,464
+rock_cluster_or_mineral_02.png,sprite_0386_x136_y6313.png,386,rock cluster or mineral,136,6313,16,16,191
+rock_cluster_or_mineral_03.png,sprite_0387_x232_y6313.png,387,rock cluster or mineral,232,6313,16,16,195
+rock_cluster_or_mineral_04.png,sprite_0388_x203_y6316.png,388,rock cluster or mineral,203,6316,6,5,26
+rock_cluster_or_mineral_05.png,sprite_0389_x210_y6318.png,389,rock cluster or mineral,210,6318,5,7,27
+rock_cluster_or_mineral_06.png,sprite_0390_x201_y6322.png,390,rock cluster or mineral,201,6322,8,5,36
+large_blue_rock_01.png,sprite_0391_x65_y6338.png,391,large blue rock,65,6338,30,29,609
+rock_cluster_or_mineral_07.png,sprite_0392_x97_y6338.png,392,rock cluster or mineral,97,6338,30,29,730
+rock_cluster_or_mineral_08.png,sprite_0393_x129_y6338.png,393,rock cluster or mineral,129,6338,30,29,730
+rock_cluster_or_mineral_09.png,sprite_0394_x168_y6345.png,394,rock cluster or mineral,168,6345,16,21,279
+rock_cluster_or_mineral_10.png,sprite_0395_x200_y6346.png,395,rock cluster or mineral,200,6346,15,15,179
+rock_cluster_or_mineral_11.png,sprite_0396_x234_y6346.png,396,rock cluster or mineral,234,6346,15,15,171
+rock_cluster_or_mineral_12.png,sprite_0397_x8_y6377.png,397,rock cluster or mineral,8,6377,15,15,179
+rock_cluster_or_mineral_13.png,sprite_0398_x169_y6377.png,398,rock cluster or mineral,169,6377,15,16,157
+rock_cluster_or_mineral_14.png,sprite_0399_x42_y6378.png,399,rock cluster or mineral,42,6378,15,15,179
+rock_cluster_or_mineral_15.png,sprite_0400_x71_y6378.png,400,rock cluster or mineral,71,6378,16,16,191
+rock_cluster_or_mineral_16.png,sprite_0401_x106_y6378.png,401,rock cluster or mineral,106,6378,13,14,103
+rock_cluster_or_mineral_17.png,sprite_0402_x138_y6379.png,402,rock cluster or mineral,138,6379,13,12,124
+rock_cluster_or_mineral_18.png,sprite_0403_x201_y6378.png,403,rock cluster or mineral,201,6378,15,15,158
+snow_cave_and_barrels_01.png,sprite_0404_x0_y6400.png,404,snow cave and barrels,0,6400,64,31,1426
+stone_ledge_01.png,sprite_0405_x80_y6413.png,405,stone ledge,80,6413,64,12,596
+bat_wing_or_cave_trim_01.png,sprite_0406_x0_y6437.png,406,bat wing or cave trim,0,6437,128,45,3784
+cave_entrance_snow_01.png,sprite_0407_x140_y6440.png,407,cave entrance snow,140,6440,40,40,1232
+cave_entrance_brown_01.png,sprite_0408_x205_y6440.png,408,cave entrance brown,205,6440,40,40,1232
+cave_entrance_with_braces_01.png,sprite_0409_x12_y6504.png,409,cave entrance with braces,12,6504,40,40,1232
+rock_cave_entrance_01.png,sprite_0410_x76_y6504.png,410,rock cave entrance,76,6504,40,40,1232
+grass_cave_entrance_01.png,sprite_0411_x141_y6504.png,411,grass cave entrance,141,6504,40,40,1234
+icy_cave_entrance_01.png,sprite_0412_x205_y6504.png,412,icy cave entrance,205,6504,40,40,1232
+cave_entrance_or_rock_arch_01.png,sprite_0413_x12_y6568.png,413,cave entrance or rock arch,12,6568,40,40,1242
+cave_entrance_or_rock_arch_02.png,sprite_0414_x76_y6568.png,414,cave entrance or rock arch,76,6568,40,40,1240
+cave_entrance_or_rock_arch_03.png,sprite_0415_x140_y6568.png,415,cave entrance or rock arch,140,6568,40,40,1232
+stone_archway_01.png,sprite_0416_x0_y6624.png,416,stone archway,0,6624,128,47,5039
+stone_double_archway_01.png,sprite_0417_x144_y6624.png,417,stone double archway,144,6624,96,31,2813
+stone_double_archway_02.png,sprite_0418_x144_y6656.png,418,stone double archway,144,6656,96,31,2769
+stone_archway_02.png,sprite_0419_x0_y6672.png,419,stone archway,0,6672,80,31,2223
+stone_brick_wall_01.png,sprite_0420_x96_y6673.png,420,stone brick wall,96,6673,32,15,480
+stone_wall_archway_floor_or_ruin_01.png,sprite_0421_x144_y6688.png,421,stone wall archway floor or ruin,144,6688,96,31,2813
+stone_wall_archway_floor_or_ruin_02.png,sprite_0422_x104_y6693.png,422,stone wall archway floor or ruin,104,6693,16,27,432
+stone_wall_archway_floor_or_ruin_03.png,sprite_0423_x144_y6720.png,423,stone wall archway floor or ruin,144,6720,96,31,2813
+stone_wall_archway_floor_or_ruin_04.png,sprite_0424_x8_y6738.png,424,stone wall archway floor or ruin,8,6738,80,30,1554
+stone_wall_archway_floor_or_ruin_05.png,sprite_0425_x96_y6738.png,425,stone wall archway floor or ruin,96,6738,16,14,224
+stone_wall_archway_floor_or_ruin_06.png,sprite_0426_x48_y6753.png,426,stone wall archway floor or ruin,48,6753,176,61,4578
+stone_wall_archway_floor_or_ruin_07.png,sprite_0427_x229_y6770.png,427,stone wall archway floor or ruin,229,6770,11,14,153
+stone_wall_archway_floor_or_ruin_08.png,sprite_0428_x16_y6802.png,428,stone wall archway floor or ruin,16,6802,13,14,182
+stone_wall_archway_floor_or_ruin_09.png,sprite_0429_x224_y6830.png,429,stone wall archway floor or ruin,224,6830,16,47,746
+stone_wall_archway_floor_or_ruin_10.png,sprite_0430_x16_y6832.png,430,stone wall archway floor or ruin,16,6832,64,48,1712
+stone_wall_archway_floor_or_ruin_11.png,sprite_0431_x96_y6832.png,431,stone wall archway floor or ruin,96,6832,112,46,4095
+stone_wall_archway_floor_or_ruin_12.png,sprite_0432_x37_y6869.png,432,stone wall archway floor or ruin,37,6869,11,11,121
+stone_wall_archway_floor_or_ruin_13.png,sprite_0433_x104_y6894.png,433,stone wall archway floor or ruin,104,6894,48,15,660
+stone_wall_archway_floor_or_ruin_14.png,sprite_0434_x160_y6895.png,434,stone wall archway floor or ruin,160,6895,16,14,196
+stone_wall_archway_floor_or_ruin_15.png,sprite_0435_x192_y6894.png,435,stone wall archway floor or ruin,192,6894,16,15,212
+stone_wall_archway_floor_or_ruin_16.png,sprite_0436_x224_y6895.png,436,stone wall archway floor or ruin,224,6895,16,47,746
+stone_wall_archway_floor_or_ruin_17.png,sprite_0437_x16_y6898.png,437,stone wall archway floor or ruin,16,6898,68,90,4616
+stone_wall_archway_floor_or_ruin_18.png,sprite_0438_x48_y6901.png,438,stone wall archway floor or ruin,48,6901,13,11,139
+stone_wall_archway_floor_or_ruin_19.png,sprite_0439_x96_y6926.png,439,stone wall archway floor or ruin,96,6926,16,47,746
+stone_wall_archway_floor_or_ruin_20.png,sprite_0440_x135_y6929.png,440,stone wall archway floor or ruin,135,6929,20,46,747
+stone_wall_archway_floor_or_ruin_21.png,sprite_0441_x168_y6929.png,441,stone wall archway floor or ruin,168,6929,20,46,818
+stone_wall_archway_floor_or_ruin_22.png,sprite_0442_x208_y6944.png,442,stone wall archway floor or ruin,208,6944,32,62,1984
+stone_wall_archway_floor_or_ruin_23.png,sprite_0443_x112_y6976.png,443,stone wall archway floor or ruin,112,6976,32,32,1024
+stone_wall_archway_floor_or_ruin_24.png,sprite_0444_x168_y6981.png,444,stone wall archway floor or ruin,168,6981,16,21,288
+stone_well_or_round_structure_01.png,sprite_0445_x8_y7008.png,445,stone well or round structure,8,7008,84,94,5211
+stone_wall_archway_floor_or_ruin_25.png,sprite_0446_x207_y7024.png,446,stone wall archway floor or ruin,207,7024,32,80,2468
+stone_wall_archway_floor_or_ruin_26.png,sprite_0447_x115_y7029.png,447,stone wall archway floor or ruin,115,7029,60,73,4298
+stone_wall_archway_floor_or_ruin_27.png,sprite_0448_x64_y7105.png,448,stone wall archway floor or ruin,64,7105,48,30,1440
+stone_wall_archway_floor_or_ruin_28.png,sprite_0449_x144_y7120.png,449,stone wall archway floor or ruin,144,7120,96,32,3064
+stone_wall_archway_floor_or_ruin_29.png,sprite_0450_x15_y7125.png,450,stone wall archway floor or ruin,15,7125,32,73,2208
+stone_wall_archway_floor_or_ruin_30.png,sprite_0451_x64_y7150.png,451,stone wall archway floor or ruin,64,7150,48,48,2224
+stone_wall_archway_floor_or_ruin_31.png,sprite_0452_x128_y7184.png,452,stone wall archway floor or ruin,128,7184,128,64,2816
+stone_wall_archway_floor_or_ruin_32.png,sprite_0453_x0_y7200.png,453,stone wall archway floor or ruin,0,7200,112,48,2229
+stone_wall_archway_floor_or_ruin_33.png,sprite_0454_x179_y7221.png,454,stone wall archway floor or ruin,179,7221,60,73,4298
+stone_wall_archway_floor_or_ruin_34.png,sprite_0455_x16_y7248.png,455,stone wall archway floor or ruin,16,7248,32,80,2468
+stone_wall_archway_floor_or_ruin_35.png,sprite_0456_x64_y7265.png,456,stone wall archway floor or ruin,64,7265,48,31,1488
+stone_wall_archway_floor_or_ruin_36.png,sprite_0457_x64_y7311.png,457,stone wall archway floor or ruin,64,7311,48,47,2176
+stone_wall_archway_floor_or_ruin_37.png,sprite_0458_x144_y7312.png,458,stone wall archway floor or ruin,144,7312,96,32,3064
+stone_wall_archway_floor_or_ruin_38.png,sprite_0459_x16_y7349.png,459,stone wall archway floor or ruin,16,7349,32,73,2208
+stone_wall_archway_floor_or_ruin_39.png,sprite_0460_x64_y7377.png,460,stone wall archway floor or ruin,64,7377,64,15,864
+stone_wall_archway_floor_or_ruin_40.png,sprite_0461_x144_y7376.png,461,stone wall archway floor or ruin,144,7376,112,16,1792
+stone_wall_archway_floor_or_ruin_41.png,sprite_0462_x144_y7397.png,462,stone wall archway floor or ruin,144,7397,44,27,1012
+stone_wall_archway_floor_or_ruin_42.png,sprite_0463_x80_y7408.png,463,stone wall archway floor or ruin,80,7408,16,16,256
+stone_wall_archway_floor_or_ruin_43.png,sprite_0464_x207_y7408.png,464,stone wall archway floor or ruin,207,7408,12,16,192
+stone_wall_archway_floor_or_ruin_44.png,sprite_0465_x112_y7413.png,465,stone wall archway floor or ruin,112,7413,16,11,144
+ruined_stone_building_top_01.png,sprite_0466_x0_y7426.png,466,ruined stone building top,0,7426,111,93,8138
+stone_wall_archway_floor_or_ruin_45.png,sprite_0467_x148_y7426.png,467,stone wall archway floor or ruin,148,7426,92,87,5850
+stone_wall_archway_floor_or_ruin_46.png,sprite_0468_x168_y7494.png,468,stone wall archway floor or ruin,168,7494,16,21,288
+stone_wall_archway_floor_or_ruin_47.png,sprite_0469_x112_y7504.png,469,stone wall archway floor or ruin,112,7504,32,47,1460
+stone_bridge_arch_01.png,sprite_0470_x0_y7520.png,470,stone bridge arch,0,7520,96,31,2804
+stone_wall_archway_floor_or_ruin_48.png,sprite_0471_x160_y7520.png,471,stone wall archway floor or ruin,160,7520,64,32,1503
+stone_wall_archway_floor_or_ruin_49.png,sprite_0472_x0_y7552.png,472,stone wall archway floor or ruin,0,7552,16,32,512
+stone_wall_archway_floor_or_ruin_50.png,sprite_0473_x32_y7552.png,473,stone wall archway floor or ruin,32,7552,16,30,480
+stone_wall_archway_floor_or_ruin_51.png,sprite_0474_x64_y7552.png,474,stone wall archway floor or ruin,64,7552,16,30,480
+stone_crossroads_01.png,sprite_0475_x84_y7552.png,475,stone crossroads,84,7552,90,64,3543
+stone_wall_archway_floor_or_ruin_52.png,sprite_0476_x164_y7570.png,476,stone wall archway floor or ruin,164,7570,26,14,270
+stone_wall_archway_floor_or_ruin_53.png,sprite_0477_x115_y7574.png,477,stone wall archway floor or ruin,115,7574,10,10,100
+stone_wall_archway_floor_or_ruin_54.png,sprite_0478_x195_y7574.png,478,stone wall archway floor or ruin,195,7574,10,10,100
+stone_paving_tile_01.png,sprite_0479_x17_y7631.png,479,stone paving tile,17,7631,64,64,4096
+stone_wall_archway_floor_or_ruin_55.png,sprite_0480_x175_y7630.png,480,stone wall archway floor or ruin,175,7630,68,78,4218
+stone_wall_archway_floor_or_ruin_56.png,sprite_0481_x112_y7632.png,481,stone wall archway floor or ruin,112,7632,32,32,1024
+stone_wall_archway_floor_or_ruin_57.png,sprite_0482_x112_y7694.png,482,stone wall archway floor or ruin,112,7694,32,14,444
+stone_wall_archway_floor_or_ruin_58.png,sprite_0483_x172_y7712.png,483,stone wall archway floor or ruin,172,7712,40,32,1280
+stone_wall_archway_floor_or_ruin_59.png,sprite_0484_x112_y7726.png,484,stone wall archway floor or ruin,112,7726,48,18,804
+stone_wall_archway_floor_or_ruin_60.png,sprite_0485_x48_y7729.png,485,stone wall archway floor or ruin,48,7729,48,15,660
+stone_wall_archway_floor_or_ruin_61.png,sprite_0486_x213_y7733.png,486,stone wall archway floor or ruin,213,7733,43,43,1497
+large_green_tree_01.png,sprite_0487_x9_y7757.png,487,large green tree,9,7757,76,78,3976
+stone_wall_archway_floor_or_ruin_62.png,sprite_0488_x144_y7761.png,488,stone wall archway floor or ruin,144,7761,48,45,1964
+stone_wall_archway_floor_or_ruin_63.png,sprite_0489_x112_y7762.png,489,stone wall archway floor or ruin,112,7762,13,14,182
+stone_wall_archway_floor_or_ruin_64.png,sprite_0490_x208_y7793.png,490,stone wall archway floor or ruin,208,7793,48,15,698
+stone_wall_archway_floor_or_ruin_65.png,sprite_0491_x80_y7797.png,491,stone wall archway floor or ruin,80,7797,128,74,5633
+stone_wall_archway_floor_or_ruin_66.png,sprite_0492_x224_y7808.png,492,stone wall archway floor or ruin,224,7808,16,31,490
+stone_wall_archway_floor_or_ruin_67.png,sprite_0493_x16_y7840.png,493,stone wall archway floor or ruin,16,7840,32,32,992
+stone_wall_archway_floor_or_ruin_68.png,sprite_0494_x224_y7855.png,494,stone wall archway floor or ruin,224,7855,16,15,234
+stone_wall_archway_floor_or_ruin_69.png,sprite_0495_x80_y7872.png,495,stone wall archway floor or ruin,80,7872,96,31,2804
+stone_wall_archway_floor_or_ruin_70.png,sprite_0496_x200_y7875.png,496,stone wall archway floor or ruin,200,7875,16,21,288
+stone_wall_archway_floor_or_ruin_71.png,sprite_0497_x53_y7888.png,497,stone wall archway floor or ruin,53,7888,11,14,153
+stone_wall_archway_floor_or_ruin_72.png,sprite_0498_x224_y7890.png,498,stone wall archway floor or ruin,224,7890,16,14,196
+stone_arch_01.png,sprite_0499_x0_y7909.png,499,stone arch,0,7909,64,50,1451
+stone_wall_archway_floor_or_ruin_73.png,sprite_0500_x84_y7910.png,500,stone wall archway floor or ruin,84,7910,60,56,2514
+stone_structure_or_small_prop_01.png,sprite_0501_x148_y7910.png,501,stone structure or small prop,148,7910,28,56,1074
+stone_structure_or_small_prop_02.png,sprite_0502_x196_y7910.png,502,stone structure or small prop,196,7910,12,56,594
+stone_structure_or_small_prop_03.png,sprite_0503_x224_y7910.png,503,stone structure or small prop,224,7910,16,24,360
+stone_structure_or_small_prop_04.png,sprite_0504_x224_y7936.png,504,stone structure or small prop,224,7936,20,32,576
+stone_structure_or_small_prop_05.png,sprite_0505_x84_y7968.png,505,stone structure or small prop,84,7968,22,17,202
+stone_structure_or_small_prop_06.png,sprite_0506_x196_y7968.png,506,stone structure or small prop,196,7968,12,62,744
+stone_structure_or_small_prop_07.png,sprite_0507_x99_y7972.png,507,stone structure or small prop,99,7972,11,10,103
+wooden_gate_01.png,sprite_0508_x128_y7972.png,508,wooden gate,128,7972,48,27,1146
+stone_structure_or_small_prop_08.png,sprite_0509_x224_y7974.png,509,stone structure or small prop,224,7974,16,58,888
+stone_structure_or_small_prop_09.png,sprite_0510_x47_y7976.png,510,stone structure or small prop,47,7976,17,45,399
+stone_structure_or_small_prop_10.png,sprite_0511_x4_y7982.png,511,stone structure or small prop,4,7982,31,39,631
+stone_structure_or_small_prop_11.png,sprite_0512_x82_y8000.png,512,stone structure or small prop,82,8000,29,14,322
+stone_structure_or_small_prop_12.png,sprite_0513_x147_y8004.png,513,stone structure or small prop,147,8004,13,27,322
+stone_structure_or_small_prop_13.png,sprite_0514_x163_y8004.png,514,stone structure or small prop,163,8004,29,27,650
+stone_structure_or_small_prop_14.png,sprite_0515_x80_y8035.png,515,stone structure or small prop,80,8035,32,27,743
+stone_structure_or_small_prop_15.png,sprite_0516_x233_y8034.png,516,stone structure or small prop,233,8034,15,13,182
+stone_structure_or_small_prop_16.png,sprite_0517_x148_y8037.png,517,stone structure or small prop,148,8037,28,24,502
+flower_bush_red_01.png,sprite_0518_x7_y8040.png,518,flower bush red,7,8040,17,24,309
+flower_bush_blue_01.png,sprite_0519_x40_y8040.png,519,flower bush blue,40,8040,15,24,299
+stone_structure_or_small_prop_17.png,sprite_0520_x233_y8049.png,520,stone structure or small prop,233,8049,15,13,182
+grass_planter_01.png,sprite_0521_x18_y8066.png,521,grass planter,18,8066,62,30,1637
+planter_bed_flower_or_bench_01.png,sprite_0522_x104_y8066.png,522,planter bed flower or bench,104,8066,14,30,294
+planter_bed_flower_or_bench_02.png,sprite_0523_x225_y8067.png,523,planter bed flower or bench,225,8067,30,26,662
+green_bed_01.png,sprite_0524_x193_y8068.png,524,green bed,193,8068,31,24,676
+planter_bed_flower_or_bench_03.png,sprite_0525_x136_y8077.png,525,planter bed flower or bench,136,8077,14,19,227
+planter_bed_flower_or_bench_04.png,sprite_0526_x169_y8078.png,526,planter bed flower or bench,169,8078,14,18,225
+standing_clock_01.png,sprite_0527_x202_y8097.png,527,standing clock,202,8097,12,31,276
+notice_board_01.png,sprite_0528_x233_y8102.png,528,notice board,233,8102,16,24,372
+wooden_bench_01.png,sprite_0529_x18_y8105.png,529,wooden bench,18,8105,62,23,1389
+flower_planter_box_01.png,sprite_0530_x114_y8105.png,530,flower planter box,114,8105,62,23,1389
+purple_flower_bush_01.png,sprite_0531_x107_y8129.png,531,purple flower bush,107,8129,44,29,910
+green_bed_02.png,sprite_0532_x42_y8131.png,532,green bed,42,8131,46,27,1007
+pink_flower_bush_01.png,sprite_0533_x202_y8130.png,533,pink flower bush,202,8130,44,29,910
+green_bed_03.png,sprite_0534_x2_y8132.png,534,green bed,2,8132,30,26,635
+planter_bed_flower_or_bench_05.png,sprite_0535_x170_y8132.png,535,planter bed flower or bench,170,8132,12,24,192
+planter_bed_flower_or_bench_06.png,sprite_0536_x202_y8164.png,536,planter bed flower or bench,202,8164,12,24,192
+yellow_flower_patch_01.png,sprite_0537_x41_y8168.png,537,yellow flower patch,41,8168,46,48,1296
+planter_bed_flower_or_bench_07.png,sprite_0538_x97_y8171.png,538,planter bed flower or bench,97,8171,31,19,497
+planter_bed_flower_or_bench_08.png,sprite_0539_x7_y8174.png,539,planter bed flower or bench,7,8174,14,32,280
+wooden_ladder_01.png,sprite_0540_x232_y8174.png,540,wooden ladder,232,8174,16,50,520
+yellow_bench_01.png,sprite_0541_x138_y8178.png,541,yellow bench,138,8178,47,13,566
+ground_patch_or_terrain_detail_01.png,sprite_0542_x168_y8202.png,542,ground patch or terrain detail,168,8202,16,21,279
+ground_patch_or_terrain_detail_02.png,sprite_0543_x202_y8202.png,543,ground patch or terrain detail,202,8202,16,21,282
+ground_patch_or_terrain_detail_03.png,sprite_0544_x108_y8206.png,544,ground patch or terrain detail,108,8206,8,8,52
+ground_patch_or_terrain_detail_04.png,sprite_0545_x140_y8206.png,545,ground patch or terrain detail,140,8206,8,8,52
+ground_patch_or_terrain_detail_05.png,sprite_0546_x202_y8239.png,546,ground patch or terrain detail,202,8239,46,32,1281
+ground_patch_or_terrain_detail_06.png,sprite_0547_x16_y8240.png,547,ground patch or terrain detail,16,8240,64,64,3952
+ground_patch_or_terrain_detail_07.png,sprite_0548_x112_y8240.png,548,ground patch or terrain detail,112,8240,64,64,3952
+ground_patch_or_terrain_detail_08.png,sprite_0549_x202_y8303.png,549,ground patch or terrain detail,202,8303,46,32,1281
+ground_patch_or_terrain_detail_09.png,sprite_0550_x16_y8336.png,550,ground patch or terrain detail,16,8336,64,64,3950
+ground_patch_or_terrain_detail_10.png,sprite_0551_x112_y8336.png,551,ground patch or terrain detail,112,8336,64,64,4010
+ground_patch_or_terrain_detail_11.png,sprite_0552_x202_y8367.png,552,ground patch or terrain detail,202,8367,46,32,1279
+ground_patch_or_terrain_detail_12.png,sprite_0553_x199_y8430.png,553,ground patch or terrain detail,199,8430,46,32,1238
+ground_patch_or_terrain_detail_13.png,sprite_0554_x16_y8432.png,554,ground patch or terrain detail,16,8432,64,64,4016
+ground_patch_or_terrain_detail_14.png,sprite_0555_x112_y8432.png,555,ground patch or terrain detail,112,8432,64,64,4012
+ground_patch_or_terrain_detail_15.png,sprite_0556_x199_y8494.png,556,ground patch or terrain detail,199,8494,46,32,1239
+ground_patch_or_terrain_detail_16.png,sprite_0557_x0_y8512.png,557,ground patch or terrain detail,0,8512,64,128,7168
+ground_patch_or_terrain_detail_17.png,sprite_0558_x71_y8521.png,558,ground patch or terrain detail,71,8521,16,13,170
+ground_patch_or_terrain_detail_18.png,sprite_0559_x105_y8521.png,559,ground patch or terrain detail,105,8521,16,13,170
+ground_patch_or_terrain_detail_19.png,sprite_0560_x137_y8521.png,560,ground patch or terrain detail,137,8521,16,13,170
+ground_patch_or_terrain_detail_20.png,sprite_0561_x169_y8523.png,561,ground patch or terrain detail,169,8523,14,11,117
+ground_patch_or_terrain_detail_21.png,sprite_0562_x136_y8554.png,562,ground patch or terrain detail,136,8554,14,11,117
+ground_patch_or_terrain_detail_22.png,sprite_0563_x169_y8554.png,563,ground patch or terrain detail,169,8554,14,11,117
+ground_patch_or_terrain_detail_23.png,sprite_0564_x199_y8558.png,564,ground patch or terrain detail,199,8558,46,32,1239
+ground_patch_or_terrain_detail_24.png,sprite_0565_x80_y8562.png,565,ground patch or terrain detail,80,8562,32,14,418
+ground_patch_or_terrain_detail_25.png,sprite_0566_x80_y8592.png,566,ground patch or terrain detail,80,8592,64,16,757
+ground_patch_or_terrain_detail_26.png,sprite_0567_x176_y8594.png,567,ground patch or terrain detail,176,8594,16,14,216
+ground_patch_or_terrain_detail_27.png,sprite_0568_x48_y8624.png,568,ground patch or terrain detail,48,8624,64,16,757
+ground_patch_or_terrain_detail_28.png,sprite_0569_x144_y8624.png,569,ground patch or terrain detail,144,8624,64,16,757
+stacked_wooden_fence_01.png,sprite_0570_x17_y8651.png,570,stacked wooden fence,17,8651,127,101,5987
+fence_gate_rail_or_lamppost_01.png,sprite_0571_x128_y8656.png,571,fence gate rail or lamppost,128,8656,32,48,1524
+fence_gate_rail_or_lamppost_02.png,sprite_0572_x224_y8656.png,572,fence gate rail or lamppost,224,8656,32,48,1536
+red_wooden_gate_01.png,sprite_0573_x163_y8664.png,573,red wooden gate,163,8664,58,40,1936
+fence_gate_rail_or_lamppost_03.png,sprite_0574_x163_y8724.png,574,fence gate rail or lamppost,163,8724,58,12,552
+metal_gate_01.png,sprite_0575_x201_y8736.png,575,metal gate,201,8736,46,32,1328
+wooden_table_and_chair_01.png,sprite_0576_x0_y8768.png,576,wooden table and chair,0,8768,160,128,9604
+blue_slatted_gate_01.png,sprite_0577_x178_y8775.png,577,blue slatted gate,178,8775,60,70,3524
+fence_gate_rail_or_lamppost_04.png,sprite_0578_x104_y8790.png,578,fence gate rail or lamppost,104,8790,16,42,504
+fence_gate_rail_or_lamppost_05.png,sprite_0579_x201_y8864.png,579,fence gate rail or lamppost,201,8864,48,64,2048
+fence_gate_rail_or_lamppost_06.png,sprite_0580_x104_y8886.png,580,fence gate rail or lamppost,104,8886,16,10,160
+fence_gate_rail_or_lamppost_07.png,sprite_0581_x137_y8889.png,581,fence gate rail or lamppost,137,8889,48,7,336
+fence_gate_rail_or_lamppost_08.png,sprite_0582_x0_y8906.png,582,fence gate rail or lamppost,0,8906,26,67,1217
+fence_gate_rail_or_lamppost_09.png,sprite_0583_x38_y8906.png,583,fence gate rail or lamppost,38,8906,26,67,1217
+fence_gate_rail_or_lamppost_10.png,sprite_0584_x85_y8906.png,584,fence gate rail or lamppost,85,8906,22,54,1068
+fence_gate_rail_or_lamppost_11.png,sprite_0585_x128_y8906.png,585,fence gate rail or lamppost,128,8906,64,32,1608
+fence_gate_rail_or_lamppost_12.png,sprite_0586_x208_y8935.png,586,fence gate rail or lamppost,208,8935,32,57,1494
+fence_gate_rail_or_lamppost_13.png,sprite_0587_x65_y8960.png,587,fence gate rail or lamppost,65,8960,16,64,1000
+fence_gate_rail_or_lamppost_14.png,sprite_0588_x120_y8966.png,588,fence gate rail or lamppost,120,8966,48,46,1726
+fence_gate_rail_or_lamppost_15.png,sprite_0589_x0_y8992.png,589,fence gate rail or lamppost,0,8992,64,16,988
+wooden_fence_section_01.png,sprite_0590_x168_y9029.png,590,wooden fence section,168,9029,80,59,4208
+picket_fence_01.png,sprite_0591_x17_y9031.png,591,picket fence,17,9031,62,48,2388
+horizontal_wooden_fence_01.png,sprite_0592_x107_y9047.png,592,horizontal wooden fence,107,9047,48,48,1800
+red_white_awning_01.png,sprite_0593_x0_y9088.png,593,red white awning,0,9088,64,64,4064
+street_lamp_01.png,sprite_0594_x160_y9097.png,594,street lamp,160,9097,32,47,607
+fence_gate_rail_or_lamppost_16.png,sprite_0595_x199_y9097.png,595,fence gate rail or lamppost,199,9097,21,47,422
+fence_gate_rail_or_lamppost_17.png,sprite_0596_x229_y9097.png,596,fence gate rail or lamppost,229,9097,22,47,422
+fence_gate_rail_or_lamppost_18.png,sprite_0597_x73_y9101.png,597,fence gate rail or lamppost,73,9101,14,47,375
+small_town_prop_or_decoration_01.png,sprite_0598_x104_y9127.png,598,small town prop or decoration,104,9127,14,16,168
+small_town_prop_or_decoration_02.png,sprite_0599_x137_y9127.png,599,small town prop or decoration,137,9127,14,16,168
+wooden_drawer_cabinet_01.png,sprite_0600_x42_y9154.png,600,wooden drawer cabinet,42,9154,12,27,322
+small_town_prop_or_decoration_03.png,sprite_0601_x106_y9155.png,601,small town prop or decoration,106,9155,12,27,322
+small_town_prop_or_decoration_04.png,sprite_0602_x8_y9157.png,602,small town prop or decoration,8,9157,15,20,240
+small_town_prop_or_decoration_05.png,sprite_0603_x168_y9161.png,603,small town prop or decoration,168,9161,16,15,188
+small_town_prop_or_decoration_06.png,sprite_0604_x74_y9162.png,604,small town prop or decoration,74,9162,12,15,178
+small_town_prop_or_decoration_07.png,sprite_0605_x138_y9163.png,605,small town prop or decoration,138,9163,12,15,178
+small_town_prop_or_decoration_08.png,sprite_0606_x201_y9162.png,606,small town prop or decoration,201,9162,14,13,158
+small_town_prop_or_decoration_09.png,sprite_0607_x233_y9163.png,607,small town prop or decoration,233,9163,14,13,158
+small_town_prop_or_decoration_10.png,sprite_0608_x200_y9185.png,608,small town prop or decoration,200,9185,16,28,267
+small_town_prop_or_decoration_11.png,sprite_0609_x168_y9190.png,609,small town prop or decoration,168,9190,16,23,304
+small_town_prop_or_decoration_12.png,sprite_0610_x233_y9192.png,610,small town prop or decoration,233,9192,16,16,234
+large_building_facade_01.png,sprite_0611_x8_y9194.png,611,large building facade,8,9194,112,115,9322
+building_detail_column_or_torch_01.png,sprite_0612_x153_y9216.png,612,building detail column or torch,153,9216,78,128,5372
+building_detail_column_or_torch_02.png,sprite_0613_x233_y9259.png,613,building detail column or torch,233,9259,16,15,194
+building_detail_column_or_torch_03.png,sprite_0614_x129_y9280.png,614,building detail column or torch,129,9280,30,64,1328
+building_detail_column_or_torch_04.png,sprite_0615_x193_y9296.png,615,building detail column or torch,193,9296,30,48,1040
+building_detail_column_or_torch_05.png,sprite_0616_x226_y9296.png,616,building detail column or torch,226,9296,30,48,1040
+building_detail_column_or_torch_06.png,sprite_0617_x97_y9312.png,617,building detail column or torch,97,9312,30,64,1381
+building_detail_column_or_torch_07.png,sprite_0618_x73_y9320.png,618,building detail column or torch,73,9320,14,48,484
+building_detail_column_or_torch_08.png,sprite_0619_x14_y9328.png,619,building detail column or torch,14,9328,34,16,484
+building_detail_column_or_torch_09.png,sprite_0620_x2_y9346.png,620,building detail column or torch,2,9346,48,150,3556
+wooden_arch_01.png,sprite_0621_x128_y9352.png,621,wooden arch,128,9352,128,50,3413
+railway_fence_01.png,sprite_0622_x40_y9408.png,622,railway fence,40,9408,120,32,2767
+short_wooden_fence_01.png,sprite_0623_x180_y9416.png,623,short wooden fence,180,9416,57,13,457
+metal_gate_frame_01.png,sprite_0624_x37_y9457.png,624,metal gate frame,37,9457,72,79,2486
+wood_fence_rail_or_post_01.png,sprite_0625_x137_y9456.png,625,wood fence rail or post,137,9456,7,77,495
+wood_fence_rail_or_post_02.png,sprite_0626_x145_y9456.png,626,wood fence rail or post,145,9456,7,13,79
+wood_fence_rail_or_post_03.png,sprite_0627_x153_y9456.png,627,wood fence rail or post,153,9456,7,13,79
+wood_fence_rail_or_post_04.png,sprite_0628_x161_y9456.png,628,wood fence rail or post,161,9456,7,13,79
+wood_fence_rail_or_post_05.png,sprite_0629_x169_y9456.png,629,wood fence rail or post,169,9456,7,13,79
+wood_fence_rail_or_post_06.png,sprite_0630_x177_y9456.png,630,wood fence rail or post,177,9456,7,13,79
+wood_fence_rail_or_post_07.png,sprite_0631_x185_y9456.png,631,wood fence rail or post,185,9456,7,13,79
+wood_fence_rail_or_post_08.png,sprite_0632_x193_y9456.png,632,wood fence rail or post,193,9456,7,13,79
+wood_fence_rail_or_post_09.png,sprite_0633_x201_y9456.png,633,wood fence rail or post,201,9456,7,77,495
+wood_fence_rail_or_post_10.png,sprite_0634_x236_y9457.png,634,wood fence rail or post,236,9457,9,60,372
+wood_fence_rail_or_post_11.png,sprite_0635_x169_y9488.png,635,wood fence rail or post,169,9488,7,13,79
+wood_fence_rail_or_post_12.png,sprite_0636_x5_y9513.png,636,wood fence rail or post,5,9513,7,47,323
+wood_fence_rail_or_post_13.png,sprite_0637_x145_y9520.png,637,wood fence rail or post,145,9520,7,13,79
+wood_fence_rail_or_post_14.png,sprite_0638_x153_y9520.png,638,wood fence rail or post,153,9520,7,13,79
+wood_fence_rail_or_post_15.png,sprite_0639_x161_y9520.png,639,wood fence rail or post,161,9520,7,13,79
+wood_fence_rail_or_post_16.png,sprite_0640_x169_y9520.png,640,wood fence rail or post,169,9520,7,13,79
+wood_fence_rail_or_post_17.png,sprite_0641_x177_y9520.png,641,wood fence rail or post,177,9520,7,13,79
+wood_fence_rail_or_post_18.png,sprite_0642_x185_y9520.png,642,wood fence rail or post,185,9520,7,13,79
+wood_fence_rail_or_post_19.png,sprite_0643_x193_y9520.png,643,wood fence rail or post,193,9520,7,13,79
+red_blue_vending_machines_01.png,sprite_0644_x208_y9543.png,644,red blue vending machines,208,9543,32,25,696
+hanging_sign_and_lamp_01.png,sprite_0645_x103_y9544.png,645,hanging sign and lamp,103,9544,78,88,1838
+town_prop_machine_sign_or_furniture_01.png,sprite_0646_x53_y9553.png,646,town prop machine sign or furniture,53,9553,24,15,289
+town_gate_01.png,sprite_0647_x129_y9568.png,647,town gate,129,9568,62,64,1734
+town_prop_machine_sign_or_furniture_02.png,sprite_0648_x0_y9572.png,648,town prop machine sign or furniture,0,9572,64,24,1448
+town_prop_machine_sign_or_furniture_03.png,sprite_0649_x233_y9572.png,649,town prop machine sign or furniture,233,9572,14,24,295
+town_prop_machine_sign_or_furniture_04.png,sprite_0650_x72_y9576.png,650,town prop machine sign or furniture,72,9576,15,16,227
+town_prop_machine_sign_or_furniture_05.png,sprite_0651_x201_y9576.png,651,town prop machine sign or furniture,201,9576,15,16,227
+town_prop_machine_sign_or_furniture_06.png,sprite_0652_x75_y9605.png,652,town prop machine sign or furniture,75,9605,10,21,184
+town_prop_machine_sign_or_furniture_07.png,sprite_0653_x168_y9606.png,653,town prop machine sign or furniture,168,9606,15,24,314
+town_prop_machine_sign_or_furniture_08.png,sprite_0654_x201_y9606.png,654,town prop machine sign or furniture,201,9606,15,24,314
+town_prop_machine_sign_or_furniture_09.png,sprite_0655_x233_y9606.png,655,town prop machine sign or furniture,233,9606,15,24,314
+town_prop_machine_sign_or_furniture_10.png,sprite_0656_x9_y9608.png,656,town prop machine sign or furniture,9,9608,14,16,196
+town_prop_machine_sign_or_furniture_11.png,sprite_0657_x41_y9608.png,657,town prop machine sign or furniture,41,9608,14,16,182
+small_statue_or_machine_01.png,sprite_0658_x39_y9634.png,658,small statue or machine,39,9634,16,30,384
+town_prop_machine_sign_or_furniture_12.png,sprite_0659_x72_y9636.png,659,town prop machine sign or furniture,72,9636,16,25,348
+town_prop_machine_sign_or_furniture_13.png,sprite_0660_x9_y9640.png,660,town prop machine sign or furniture,9,9640,14,15,122
+town_prop_machine_sign_or_furniture_14.png,sprite_0661_x104_y9641.png,661,town prop machine sign or furniture,104,9641,14,16,115
+town_prop_machine_sign_or_furniture_15.png,sprite_0662_x137_y9641.png,662,town prop machine sign or furniture,137,9641,14,14,116
+town_prop_machine_sign_or_furniture_16.png,sprite_0663_x168_y9645.png,663,town prop machine sign or furniture,168,9645,16,36,538
+town_prop_machine_sign_or_furniture_17.png,sprite_0664_x201_y9644.png,664,town prop machine sign or furniture,201,9644,16,36,538
+town_prop_machine_sign_or_furniture_18.png,sprite_0665_x233_y9644.png,665,town prop machine sign or furniture,233,9644,16,36,538
+town_prop_machine_sign_or_furniture_19.png,sprite_0666_x7_y9665.png,666,town prop machine sign or furniture,7,9665,15,29,342
+town_prop_machine_sign_or_furniture_20.png,sprite_0667_x34_y9666.png,667,town prop machine sign or furniture,34,9666,29,29,697
+town_prop_machine_sign_or_furniture_21.png,sprite_0668_x65_y9666.png,668,town prop machine sign or furniture,65,9666,29,29,697
+town_prop_machine_sign_or_furniture_22.png,sprite_0669_x137_y9676.png,669,town prop machine sign or furniture,137,9676,15,13,166
+town_prop_machine_sign_or_furniture_23.png,sprite_0670_x104_y9678.png,670,town prop machine sign or furniture,104,9678,15,12,150
+town_prop_machine_sign_or_furniture_24.png,sprite_0671_x8_y9697.png,671,town prop machine sign or furniture,8,9697,14,30,353
+town_prop_machine_sign_or_furniture_25.png,sprite_0672_x42_y9697.png,672,town prop machine sign or furniture,42,9697,14,30,353
+town_prop_machine_sign_or_furniture_26.png,sprite_0673_x80_y9698.png,673,town prop machine sign or furniture,80,9698,15,28,369
+town_prop_machine_sign_or_furniture_27.png,sprite_0674_x97_y9698.png,674,town prop machine sign or furniture,97,9698,15,28,369
+town_prop_machine_sign_or_furniture_28.png,sprite_0675_x136_y9700.png,675,town prop machine sign or furniture,136,9700,16,24,298
+town_prop_machine_sign_or_furniture_29.png,sprite_0676_x168_y9700.png,676,town prop machine sign or furniture,168,9700,16,24,299
+town_prop_machine_sign_or_furniture_30.png,sprite_0677_x201_y9704.png,677,town prop machine sign or furniture,201,9704,14,15,180
+ornate_statue_01.png,sprite_0678_x229_y9706.png,678,ornate statue,229,9706,23,41,867
+fountain_display_01.png,sprite_0679_x65_y9729.png,679,fountain display,65,9729,127,63,5538
+door_wall_furniture_or_building_piece_01.png,sprite_0680_x202_y9730.png,680,door wall furniture or building piece,202,9730,15,29,431
+door_wall_furniture_or_building_piece_02.png,sprite_0681_x41_y9737.png,681,door wall furniture or building piece,41,9737,15,15,200
+door_wall_furniture_or_building_piece_03.png,sprite_0682_x8_y9743.png,682,door wall furniture or building piece,8,9743,16,35,553
+door_wall_furniture_or_building_piece_04.png,sprite_0683_x202_y9762.png,683,door wall furniture or building piece,202,9762,15,29,431
+door_wall_furniture_or_building_piece_05.png,sprite_0684_x228_y9794.png,684,door wall furniture or building piece,228,9794,28,30,692
+door_wall_furniture_or_building_piece_06.png,sprite_0685_x64_y9801.png,685,door wall furniture or building piece,64,9801,32,23,736
+door_wall_furniture_or_building_piece_07.png,sprite_0686_x20_y9810.png,686,door wall furniture or building piece,20,9810,124,46,3887
+door_wall_furniture_or_building_piece_08.png,sprite_0687_x180_y9810.png,687,door wall furniture or building piece,180,9810,28,78,1689
+door_wall_furniture_or_building_piece_09.png,sprite_0688_x227_y9836.png,688,door wall furniture or building piece,227,9836,12,12,102
+door_wall_furniture_or_building_piece_10.png,sprite_0689_x243_y9837.png,689,door wall furniture or building piece,243,9837,12,9,76
+door_wall_furniture_or_building_piece_11.png,sprite_0690_x231_y9856.png,690,door wall furniture or building piece,231,9856,25,32,530
+door_wall_furniture_or_building_piece_12.png,sprite_0691_x22_y9858.png,691,door wall furniture or building piece,22,9858,138,61,4233
+door_wall_furniture_or_building_piece_13.png,sprite_0692_x224_y9888.png,692,door wall furniture or building piece,224,9888,15,64,860
+door_wall_furniture_or_building_piece_14.png,sprite_0693_x11_y9890.png,693,door wall furniture or building piece,11,9890,198,110,8125
+door_wall_furniture_or_building_piece_15.png,sprite_0694_x16_y9954.png,694,door wall furniture or building piece,16,9954,64,94,5596
+door_wall_furniture_or_building_piece_16.png,sprite_0695_x160_y9954.png,695,door wall furniture or building piece,160,9954,16,30,480
+door_wall_furniture_or_building_piece_17.png,sprite_0696_x224_y9954.png,696,door wall furniture or building piece,224,9954,16,30,480
+door_wall_furniture_or_building_piece_18.png,sprite_0697_x175_y9990.png,697,door wall furniture or building piece,175,9990,34,48,1520
+door_wall_furniture_or_building_piece_19.png,sprite_0698_x128_y10016.png,698,door wall furniture or building piece,128,10016,32,16,512
+door_wall_furniture_or_building_piece_20.png,sprite_0699_x16_y10050.png,699,door wall furniture or building piece,16,10050,64,94,5562
+pink_bus_01.png,sprite_0700_x105_y10053.png,700,pink bus,105,10053,87,59,4588
+train_or_boat_01.png,sprite_0701_x204_y10060.png,701,train or boat,204,10060,41,106,3698
+delivery_truck_01.png,sprite_0702_x105_y10126.png,702,delivery truck,105,10126,38,49,1627
+white_boat_01.png,sprite_0703_x0_y10189.png,703,white boat,0,10189,120,43,4342
+white_boat_02.png,sprite_0704_x132_y10189.png,704,white boat,132,10189,120,43,4342
+blue_boat_01.png,sprite_0705_x103_y10241.png,705,blue boat,103,10241,109,62,4329
+orange_truck_01.png,sprite_0706_x3_y10252.png,706,orange truck,3,10252,60,130,7256
+dark_boat_01.png,sprite_0707_x103_y10305.png,707,dark boat,103,10305,109,62,4329
+yellow_boat_01.png,sprite_0708_x103_y10369.png,708,yellow boat,103,10369,109,62,4329
+yellow_utility_truck_01.png,sprite_0709_x7_y10429.png,709,yellow utility truck,7,10429,77,66,4067
+airplane_01.png,sprite_0710_x106_y10434.png,710,airplane,106,10434,138,123,6414
+red_staircase_01.png,sprite_0711_x0_y10568.png,711,red staircase,0,10568,256,318,59964
+red_staircase_02.png,sprite_0712_x0_y10864.png,712,red staircase,0,10864,256,198,34888
+staircase_or_building_section_01.png,sprite_0713_x0_y11050.png,713,staircase or building section,0,11050,256,229,36144
+staircase_or_building_section_02.png,sprite_0714_x0_y11275.png,714,staircase or building section,0,11275,256,229,36144
+pokemon_center_red_roof_01.png,sprite_0715_x8_y11521.png,715,pokemon center red roof,8,11521,88,118,8863
+blue_shop_building_01.png,sprite_0716_x107_y11535.png,716,blue shop building,107,11535,74,94,6388
+white_shop_building_01.png,sprite_0717_x8_y11649.png,717,white shop building,8,11649,88,117,8787
+blue_shop_building_02.png,sprite_0718_x107_y11663.png,718,blue shop building,107,11663,74,94,6388
+red_shop_building_01.png,sprite_0719_x8_y11778.png,719,red shop building,8,11778,87,91,6593
+blue_pokeball_shop_01.png,sprite_0720_x103_y11779.png,720,blue pokeball shop,103,11779,73,90,5833
+pokemon_center_or_shop_building_01.png,sprite_0721_x8_y11890.png,721,pokemon center or shop building,8,11890,87,91,6593
+pokemon_center_or_shop_building_02.png,sprite_0722_x103_y11891.png,722,pokemon center or shop building,103,11891,73,90,5833
+pokemon_center_or_shop_building_03.png,sprite_0723_x6_y11999.png,723,pokemon center or shop building,6,11999,90,115,9388
+pokemon_center_or_shop_building_04.png,sprite_0724_x103_y12019.png,724,pokemon center or shop building,103,12019,69,81,5207
+pokemon_center_or_shop_building_05.png,sprite_0725_x6_y12127.png,725,pokemon center or shop building,6,12127,90,115,9388
+pokemon_center_or_shop_building_06.png,sprite_0726_x103_y12147.png,726,pokemon center or shop building,103,12147,69,81,5207
+red_roof_house_01.png,sprite_0727_x106_y12263.png,727,red roof house,106,12263,106,98,9328
+pokemon_center_or_shop_building_07.png,sprite_0728_x11_y12268.png,728,pokemon center or shop building,11,12268,82,111,7440
+blue_roof_house_01.png,sprite_0729_x106_y12391.png,729,blue roof house,106,12391,106,98,9328
+pokemon_center_or_shop_building_08.png,sprite_0730_x11_y12396.png,730,pokemon center or shop building,11,12396,82,111,7440
+icy_building_or_fence_component_01.png,sprite_0731_x106_y12519.png,731,icy building or fence component,106,12519,93,78,5450
+icy_building_or_fence_component_02.png,sprite_0732_x12_y12524.png,732,icy building or fence component,12,12524,70,71,3308
+icy_building_or_fence_component_03.png,sprite_0733_x16_y12596.png,733,icy building or fence component,16,12596,62,11,389
+icy_building_or_fence_component_04.png,sprite_0734_x147_y12598.png,734,icy building or fence component,147,12598,49,10,338
+icy_building_or_fence_component_05.png,sprite_0735_x106_y12615.png,735,icy building or fence component,106,12615,93,78,5650
+icy_building_or_fence_component_06.png,sprite_0736_x11_y12620.png,736,icy building or fence component,11,12620,71,70,3626
+icy_building_or_fence_component_07.png,sprite_0737_x16_y12689.png,737,icy building or fence component,16,12689,62,14,463
+icy_building_or_fence_component_08.png,sprite_0738_x147_y12691.png,738,icy building or fence component,147,12691,49,13,400
+green_roof_house_01.png,sprite_0739_x5_y12719.png,739,green roof house,5,12719,79,107,7872
+town_house_or_shop_01.png,sprite_0740_x101_y12719.png,740,town house or shop,101,12719,97,107,9703
+red_roof_house_02.png,sprite_0741_x5_y12846.png,741,red roof house,5,12846,79,107,7872
+town_house_or_shop_02.png,sprite_0742_x101_y12846.png,742,town house or shop,101,12846,97,107,9703
+town_house_or_shop_03.png,sprite_0743_x4_y12974.png,743,town house or shop,4,12974,72,69,4193
+town_house_or_shop_04.png,sprite_0744_x100_y12974.png,744,town house or shop,100,12974,88,67,5132
+town_house_or_shop_05.png,sprite_0745_x16_y13043.png,745,town house or shop,16,13043,32,13,187
+town_house_or_shop_06.png,sprite_0746_x128_y13042.png,746,town house or shop,128,13042,32,14,193
+town_house_or_shop_07.png,sprite_0747_x5_y13070.png,747,town house or shop,5,13070,72,68,4227
+town_house_or_shop_08.png,sprite_0748_x101_y13070.png,748,town house or shop,101,13070,86,67,5130
+town_house_or_shop_09.png,sprite_0749_x9_y13134.png,749,town house or shop,9,13134,62,18,383
+town_house_or_shop_10.png,sprite_0750_x105_y13135.png,750,town house or shop,105,13135,78,17,417
+blue_roof_house_02.png,sprite_0751_x25_y13152.png,751,blue roof house,25,13152,70,95,6220
+town_house_or_shop_11.png,sprite_0752_x104_y13152.png,752,town house or shop,104,13152,89,95,8009
+green_roof_house_02.png,sprite_0753_x25_y13248.png,753,green roof house,25,13248,70,95,6220
+town_house_or_shop_12.png,sprite_0754_x104_y13248.png,754,town house or shop,104,13248,89,95,8009
+town_house_or_shop_13.png,sprite_0755_x26_y13344.png,755,town house or shop,26,13344,62,61,3327
+town_house_or_shop_14.png,sprite_0756_x105_y13344.png,756,town house or shop,105,13344,80,62,4314
+town_house_or_shop_15.png,sprite_0757_x106_y13405.png,757,town house or shop,106,13405,78,14,472
+town_house_or_shop_16.png,sprite_0758_x27_y13407.png,758,town house or shop,27,13407,60,12,334
+town_house_or_shop_17.png,sprite_0759_x27_y13440.png,759,town house or shop,27,13440,62,75,4003
+town_house_or_shop_18.png,sprite_0760_x106_y13440.png,760,town house or shop,106,13440,80,75,5087
+town_house_or_shop_19.png,sprite_0761_x9_y13536.png,761,town house or shop,9,13536,73,256,14508
+town_house_or_shop_20.png,sprite_0762_x108_y13546.png,762,town house or shop,108,13546,73,112,6894
+house_wall_roof_or_window_component_01.png,sprite_0763_x108_y13674.png,763,house wall roof or window component,108,13674,73,111,6832
+house_wall_roof_or_window_component_02.png,sprite_0764_x8_y13800.png,764,house wall roof or window component,8,13800,73,112,7522
+house_wall_roof_or_window_component_03.png,sprite_0765_x104_y13801.png,765,house wall roof or window component,104,13801,73,111,7461
+house_wall_roof_or_window_component_04.png,sprite_0766_x11_y13922.png,766,house wall roof or window component,11,13922,64,80,3460
+house_wall_roof_or_window_component_05.png,sprite_0767_x109_y13930.png,767,house wall roof or window component,109,13930,64,70,3188
+house_wall_roof_or_window_component_06.png,sprite_0768_x111_y14007.png,768,house wall roof or window component,111,14007,60,9,266
+house_wall_roof_or_window_component_07.png,sprite_0769_x13_y14012.png,769,house wall roof or window component,13,14012,60,8,271
+house_wall_roof_or_window_component_08.png,sprite_0770_x115_y14030.png,770,house wall roof or window component,115,14030,73,105,6501
+house_wall_roof_or_window_component_09.png,sprite_0771_x9_y14055.png,771,house wall roof or window component,9,14055,64,60,3210
+house_wall_roof_or_window_component_10.png,sprite_0772_x11_y14132.png,772,house wall roof or window component,11,14132,60,9,264
+house_wall_roof_or_window_component_11.png,sprite_0773_x131_y14148.png,773,house wall roof or window component,131,14148,73,155,10243
+house_wall_roof_or_window_component_12.png,sprite_0774_x35_y14158.png,774,house wall roof or window component,35,14158,91,138,11421
+house_wall_roof_or_window_component_13.png,sprite_0775_x131_y14314.png,775,house wall roof or window component,131,14314,90,114,9511
+house_wall_roof_or_window_component_14.png,sprite_0776_x19_y14318.png,776,house wall roof or window component,19,14318,73,104,6439
+house_wall_roof_or_window_component_15.png,sprite_0777_x19_y14446.png,777,house wall roof or window component,19,14446,64,65,3159
+house_wall_roof_or_window_component_16.png,sprite_0778_x131_y14446.png,778,house wall roof or window component,131,14446,80,87,5165
+house_wall_roof_or_window_component_17.png,sprite_0779_x21_y14520.png,779,house wall roof or window component,21,14520,60,8,272
+house_wall_roof_or_window_component_18.png,sprite_0780_x146_y14536.png,780,house wall roof or window component,146,14536,15,7,101
+building_panel_or_trim_01.png,sprite_0781_x182_y14536.png,781,building panel or trim,182,14536,15,7,101
+building_panel_or_trim_02.png,sprite_0782_x3_y14564.png,782,building panel or trim,3,14564,64,101,4812
+building_panel_or_trim_03.png,sprite_0783_x131_y14572.png,783,building panel or trim,131,14572,80,67,4492
+building_panel_or_trim_04.png,sprite_0784_x146_y14648.png,784,building panel or trim,146,14648,15,7,101
+building_panel_or_trim_05.png,sprite_0785_x182_y14648.png,785,building panel or trim,182,14648,15,7,101
+building_panel_or_trim_06.png,sprite_0786_x18_y14664.png,786,building panel or trim,18,14664,15,7,101
+building_panel_or_trim_07.png,sprite_0787_x38_y14664.png,787,building panel or trim,38,14664,15,7,101
+building_panel_or_trim_08.png,sprite_0788_x131_y14670.png,788,building panel or trim,131,14670,80,81,5171
+building_panel_or_trim_09.png,sprite_0789_x3_y14691.png,789,building panel or trim,3,14691,64,91,4769
+building_panel_or_trim_10.png,sprite_0790_x135_y14757.png,790,building panel or trim,135,14757,72,12,462
+building_panel_or_trim_11.png,sprite_0791_x7_y14789.png,791,building panel or trim,7,14789,56,11,389
+building_panel_or_trim_12.png,sprite_0792_x131_y14798.png,792,building panel or trim,131,14798,80,67,4492
+building_panel_or_trim_13.png,sprite_0793_x135_y14869.png,793,building panel or trim,135,14869,72,14,477
+orange_roof_house_01.png,sprite_0794_x14_y14916.png,794,orange roof house,14,14916,93,132,8825
+house_exterior_variant_01.png,sprite_0795_x142_y14916.png,795,house exterior variant,142,14916,93,132,8809
+house_exterior_variant_02.png,sprite_0796_x135_y15079.png,796,house exterior variant,135,15079,111,152,12995
+house_exterior_variant_03.png,sprite_0797_x14_y15080.png,797,house exterior variant,14,15080,97,145,11479
+house_exterior_variant_04.png,sprite_0798_x8_y15243.png,798,house exterior variant,8,15243,119,170,15570
+pink_roof_house_01.png,sprite_0799_x163_y15243.png,799,pink roof house,163,15243,74,110,6523
+house_exterior_variant_05.png,sprite_0800_x167_y15366.png,800,house exterior variant,167,15366,73,110,6524
+house_exterior_variant_06.png,sprite_0801_x44_y15440.png,801,house exterior variant,44,15440,75,109,6393
+house_exterior_variant_07.png,sprite_0802_x167_y15494.png,802,house exterior variant,167,15494,74,109,6393
+house_exterior_variant_08.png,sprite_0803_x8_y15557.png,803,house exterior variant,8,15557,85,121,8274
+house_exterior_variant_09.png,sprite_0804_x41_y15686.png,804,house exterior variant,41,15686,79,130,8678
+house_exterior_variant_10.png,sprite_0805_x142_y15686.png,805,house exterior variant,142,15686,78,131,8731
+house_exterior_variant_11.png,sprite_0806_x2_y15843.png,806,house exterior variant,2,15843,125,124,14690
+house_exterior_variant_12.png,sprite_0807_x164_y15846.png,807,house exterior variant,164,15846,86,121,8926
+house_exterior_variant_13.png,sprite_0808_x45_y15976.png,808,house exterior variant,45,15976,71,115,6174
+tree_with_sign_01.png,sprite_0809_x166_y15999.png,809,tree with sign,166,15999,83,73,4388
+special_building_or_tree_01.png,sprite_0810_x175_y16099.png,810,special building or tree,175,16099,72,114,6147
+round_straw_roof_building_01.png,sprite_0811_x48_y16103.png,811,round straw roof building,48,16103,66,85,4717
+orange_roof_large_building_01.png,sprite_0812_x2_y16199.png,812,orange roof large building,2,16199,156,140,16361
+large_tree_with_sign_01.png,sprite_0813_x172_y16231.png,813,large tree with sign,172,16231,71,83,4579
+special_building_or_tree_02.png,sprite_0814_x4_y16355.png,814,special building or tree,4,16355,102,164,14850
+special_building_or_tree_03.png,sprite_0815_x137_y16364.png,815,special building or tree,137,16364,118,137,14365
+special_building_or_tree_04.png,sprite_0816_x49_y16533.png,816,special building or tree,49,16533,161,169,20261
+special_building_or_tree_05.png,sprite_0817_x8_y16710.png,817,special building or tree,8,16710,107,150,14505
+pokemon_center_building_01.png,sprite_0818_x135_y16713.png,818,pokemon center building,135,16713,118,135,14644
+pokemon_center_red_roof_02.png,sprite_0819_x68_y16869.png,819,pokemon center red roof,68,16869,130,144,14778
+red_roof_shop_01.png,sprite_0820_x6_y17030.png,820,red roof shop,6,17030,114,151,15261
+special_building_or_tree_06.png,sprite_0821_x131_y17034.png,821,special building or tree,131,17034,125,143,16931
+special_building_or_tree_07.png,sprite_0822_x72_y17195.png,822,special building or tree,72,17195,142,148,19567
+special_building_or_tree_08.png,sprite_0823_x47_y17343.png,823,special building or tree,47,17343,177,186,26859
+ornate_statue_02.png,sprite_0824_x2_y17452.png,824,ornate statue,2,17452,28,66,1297
+large_town_building_or_landmark_01.png,sprite_0825_x129_y17537.png,825,large town building or landmark,129,17537,117,345,35152
+large_roof_tile_01.png,sprite_0826_x17_y17552.png,826,large roof tile,17,17552,106,105,10627
+wooden_building_01.png,sprite_0827_x15_y17678.png,827,wooden building,15,17678,106,111,10444
+large_statue_01.png,sprite_0828_x70_y17797.png,828,large statue,70,17797,55,90,2629
+temple_building_01.png,sprite_0829_x7_y17802.png,829,temple building,7,17802,48,80,3247
+tall_temple_building_01.png,sprite_0830_x3_y17894.png,830,tall temple building,3,17894,92,244,13842
+ornate_tower_01.png,sprite_0831_x117_y17912.png,831,ornate tower,117,17912,130,188,19152
+golden_temple_statue_01.png,sprite_0832_x106_y18123.png,832,golden temple statue,106,18123,150,237,26440
+stone_tower_01.png,sprite_0833_x13_y18156.png,833,stone tower,13,18156,74,227,15077
+large_stilt_building_01.png,sprite_0834_x15_y18407.png,834,large stilt building,15,18407,218,173,24056
+large_wooden_building_01.png,sprite_0835_x6_y18599.png,835,large wooden building,6,18599,118,118,12650
+tall_shop_building_01.png,sprite_0836_x130_y18607.png,836,tall shop building,130,18607,104,206,20083
+large_library_or_shop_01.png,sprite_0837_x27_y18823.png,837,large library or shop,27,18823,192,283,50353
+narrow_tall_building_01.png,sprite_0838_x147_y19145.png,838,narrow tall building,147,19145,102,284,23751
+narrow_blue_building_01.png,sprite_0839_x11_y19150.png,839,narrow blue building,11,19150,116,274,29759

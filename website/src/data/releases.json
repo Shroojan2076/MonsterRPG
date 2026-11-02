@@ -1,0 +1,127 @@
+{
+  "currentRelease": {
+    "version": "v1.0.0",
+    "title": "MonsterRPG Official 1.0 Release",
+    "releaseDate": "November 2, 2026",
+    "status": "Stable Release",
+    "statusBadge": "Latest Release",
+    "downloadUrl": "./downloads/MonsterRPG-v1.0.0-windows-x64.zip",
+    "filename": "MonsterRPG-v1.0.0-windows-x64.zip",
+    "fileSize": "4.34 MB",
+    "platform": "Windows 10 / 11 (64-bit)",
+    "architecture": "x86_64",
+    "sha256": "e33c38c699bf9158109b1506cf6ff78382422ca943c148b9af6de760de76d4bd",
+    "githubReleaseUrl": "https://github.com/MonsterRPG/releases/tag/v1.0.0",
+    "summary": "The premier release of MonsterRPG featuring dual-biome exploration (Oakdale Town and Whispering Woods), full building interiors with warp transitions, authentic overworld and battle monster sprites, partner follower system, turn-based elemental combat, and the legendary Mewtwo boss encounter.",
+    "highlights": [
+      "Authentic Overworld & Battle Sprites integration with 64x64 front and back combat textures",
+      "Dynamic Partner Follower system with mood check and party synchronization",
+      "Full building interiors for Prof. Oak's Research Lab and the Oakdale Pokémon Center",
+      "Turn-based combat engine with elemental type effectiveness, dynamic lunges, and capture mechanics",
+      "Deterministic 16px grid-based movement with tap-to-turn and sprint mechanics",
+      "Legendary Guardian Boss showdown with Mewtwo in the hidden clearing"
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit or higher",
+        "processor": "Dual Core 2.0 GHz or equivalent",
+        "memory": "2 GB RAM",
+        "graphics": "DirectX 11 / OpenGL 3.3 compatible GPU with 512 MB VRAM",
+        "storage": "25 MB available space",
+        "sound": "Windows-compatible audio device"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Quad Core 2.5 GHz or higher",
+        "memory": "4 GB RAM",
+        "graphics": "Dedicated GPU with 1 GB VRAM",
+        "storage": "50 MB available space",
+        "sound": "DirectSound compatible stereo audio"
+      }
+    }
+  },
+  "releases": [
+    {
+      "version": "v1.0.0",
+      "date": "November 2, 2026",
+      "type": "Major Release",
+      "codename": "Oakdale Awakening",
+      "downloadUrl": "./downloads/MonsterRPG-v1.0.0-windows-x64.zip",
+      "fileSize": "4.34 MB",
+      "sha256": "e33c38c699bf9158109b1506cf6ff78382422ca943c148b9af6de760de76d4bd",
+      "features": [
+        "Integrated authentic overworld single-frame sprites (16x16 and 32x32) from assets/overworld.",
+        "Integrated authentic front and back battle sprites (64x64) from assets/pokemon/.",
+        "Implemented FollowerPokemon system allowing your active partner monster to walk behind you.",
+        "Created full interior maps for Prof. Oak's Research Lab and the Oakdale Health Center.",
+        "Added interactive companion Pokémon in towns and interiors (Eevee, Meowth, Clefairy, Jigglypuff, Squirtle).",
+        "Added wild overworld encounters: Pikachu, Bulbasaur, Pidgey, Psyduck, Poliwag, and Snorlax.",
+        "Built turn-based combat system with elemental type affinities (Fire, Water, Grass, Electric, Psychic, Normal).",
+        "Implemented parabolic Capture Ball throw with platform wobble and starburst effects.",
+        "Added smooth screen fade-to-black warp transitions between exteriors and interiors."
+      ],
+      "improvements": [
+        "Optimized Y-sorted sprite rendering for clean depth rendering of player, follower, NPCs, and props.",
+        "Smooth camera clamping around tile boundaries prevents out-of-bounds void visibility.",
+        "Refactored state machine to handle nested dialogues and seamless battle transitions.",
+        "Added interactive mood feedback when speaking with your partner Pokémon."
+      ],
+      "fixes": [
+        "Fixed collision boundary where player could clip through solid interior counters.",
+        "Fixed state collision between dialogue dismiss and battle trigger.",
+        "Resolved texture coordinate distortion on 32x32 overworld boss entities."
+      ],
+      "knownIssues": [
+        "Audio engine linking is complete; dynamic BGM and sound effect triggers are scheduled for Phase 1 of next milestone.",
+        "Manual game saving is currently persistent during session; persistent file serialization will arrive in v1.1.0."
+      ]
+    },
+    {
+      "version": "v0.9.0-beta",
+      "date": "October 29, 2026",
+      "type": "Beta Release",
+      "codename": "Whispering Woods",
+      "downloadUrl": null,
+      "fileSize": "3.8 MB",
+      "sha256": "8a31e89b3f49c57d76a086208a9cba35832a76dc404764b8bb07a4a27318ff20",
+      "features": [
+        "Assembled 32x32 world tileset atlas featuring cobblestone, nature trails, fences, and foliage.",
+        "Implemented 44x28 dual-biome procedural map connecting Oakdale Town to Whispering Woods.",
+        "Added tall grass step detection with 18% wild encounter rate.",
+        "Introduced sprint mechanics (holding Shift for 120 px/sec run speed)."
+      ],
+      "improvements": [
+        "Refactored Character class hierarchy into distinct Player and NPC subclasses.",
+        "Added tap-to-turn system allowing directional changes without tile advancement."
+      ],
+      "fixes": [
+        "Fixed diagonal movement slippage by strictly enforcing cardinal axis lock."
+      ],
+      "knownIssues": [
+        "Building interiors not yet accessible (temporarily locked doors)."
+      ]
+    },
+    {
+      "version": "v0.8.0-alpha",
+      "date": "October 15, 2026",
+      "type": "Alpha Prototype",
+      "codename": "Core Foundations",
+      "downloadUrl": null,
+      "fileSize": "2.9 MB",
+      "sha256": "3e9b1d9c02ff4e7123998a44d081f26f634bcba0236a87754b5df01c133a8c12",
+      "features": [
+        "Engine bootstrap in C++20 with SFML 3.0.2.",
+        "TileMap rendering engine and 16px grid collision system.",
+        "Base Character animation state machine with 4-direction sprite sheets.",
+        "Initial prototype battle scene with static monsters."
+      ],
+      "improvements": [],
+      "fixes": [],
+      "knownIssues": [
+        "Placeholder monster artwork.",
+        "Limited to 20x15 test grid."
+      ]
+    }
+  ]
+}
+

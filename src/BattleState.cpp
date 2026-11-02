@@ -502,7 +502,7 @@ void BattleState::render(sf::RenderTarget& target) {
     }
 
     if (enemyScale > 0.05f) {
-        const sf::Texture& enemyTex = resources.getMonsterTexture(enemyMonster->getTextureKey());
+        const sf::Texture& enemyTex = resources.getPokemonFrontTexture(enemyMonster->getTextureKey());
         sf::Sprite enemySprite(enemyTex);
         enemySprite.setScale({enemyScale, enemyScale});
         enemySprite.setPosition(enemyBasePos);
@@ -557,7 +557,7 @@ void BattleState::render(sf::RenderTarget& target) {
         }
     }
 
-    const sf::Texture& playerTex = resources.getMonsterTexture(playerMonster->getTextureKey());
+    const sf::Texture& playerTex = resources.getPokemonBackTexture(playerMonster->getTextureKey());
     sf::Sprite playerSprite(playerTex);
     playerSprite.setScale({3.4f, 3.4f});
     playerSprite.setPosition(playerBasePos);

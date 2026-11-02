@@ -124,49 +124,89 @@ std::string Monster::getTypeName() const {
 
 std::shared_ptr<Monster> Monster::createStarterMonster(int choice) {
     if (choice == 1) { // Fire
-        auto m = std::make_shared<Monster>("Pyropup", ElementType::Fire, 5, 24, 14, 10, 12, "pyropup");
-        m->addMove(Move("Tackle", ElementType::Normal, 15, 95));
+        auto m = std::make_shared<Monster>("Charmander", ElementType::Fire, 5, 24, 14, 10, 12, "004_CHARMANDER");
+        m->addMove(Move("Scratch", ElementType::Normal, 15, 95));
         m->addMove(Move("Ember", ElementType::Fire, 22, 90));
         return m;
     } else if (choice == 2) { // Water
-        auto m = std::make_shared<Monster>("Aquafox", ElementType::Water, 5, 26, 12, 12, 11, "aquafox");
+        auto m = std::make_shared<Monster>("Squirtle", ElementType::Water, 5, 26, 12, 12, 11, "007_SQUIRTLE");
         m->addMove(Move("Tackle", ElementType::Normal, 15, 95));
         m->addMove(Move("Water Gun", ElementType::Water, 22, 90));
         return m;
     } else { // Grass
-        auto m = std::make_shared<Monster>("Grassling", ElementType::Grass, 5, 28, 11, 13, 10, "grassling");
+        auto m = std::make_shared<Monster>("Bulbasaur", ElementType::Grass, 5, 28, 11, 13, 10, "001_BULBASAUR");
         m->addMove(Move("Tackle", ElementType::Normal, 15, 95));
         m->addMove(Move("Vine Whip", ElementType::Grass, 22, 90));
         return m;
     }
 }
 
-std::shared_ptr<Monster> Monster::createWildMonster(int level, bool isBoss) {
-    if (isBoss) {
-        auto m = std::make_shared<Monster>("Sylvanguard", ElementType::Grass, level, 45, 18, 16, 14, "sylvanguard");
-        m->addMove(Move("Mega Drain", ElementType::Grass, 25, 90));
-        m->addMove(Move("Horn Leech", ElementType::Grass, 30, 85));
-        m->addMove(Move("Body Slam", ElementType::Normal, 22, 90));
+std::shared_ptr<Monster> Monster::createSpecificWildMonster(const std::string& species, int level) {
+    std::string key = species;
+    std::transform(key.begin(), key.end(), key.begin(), [](unsigned char c) { return static_cast<char>(std::tolower(c)); });
+
+    if (key == "pikachu" || key == "025" || key == "025_pikachu") {
+        auto m = std::make_shared<Monster>("Wild Pikachu", ElementType::Electric, level, 20, 14, 8, 16, "025_PIKACHU");
+        m->addMove(Move("Quick Attack", ElementType::Normal, 15, 100));
+        m->addMove(Move("Spark", ElementType::Electric, 22, 90));
+        return m;
+    } else if (key == "pidgey" || key == "016" || key == "016_pidgey") {
+        auto m = std::make_shared<Monster>("Wild Pidgey", ElementType::Normal, level, 19, 11, 9, 13, "016_PIDGEY");
+        m->addMove(Move("Tackle", ElementType::Normal, 14, 95));
+        m->addMove(Move("Gust", ElementType::Normal, 18, 90));
+        return m;
+    } else if (key == "psyduck" || key == "054" || key == "054_psyduck") {
+        auto m = std::make_shared<Monster>("Wild Psyduck", ElementType::Water, level, 23, 12, 10, 10, "054_PSYDUCK");
+        m->addMove(Move("Scratch", ElementType::Normal, 14, 95));
+        m->addMove(Move("Water Gun", ElementType::Water, 20, 90));
+        return m;
+    } else if (key == "poliwag" || key == "060" || key == "060_poliwag") {
+        auto m = std::make_shared<Monster>("Wild Poliwag", ElementType::Water, level, 22, 11, 11, 14, "060_POLIWAG");
+        m->addMove(Move("Pound", ElementType::Normal, 14, 95));
+        m->addMove(Move("Water Gun", ElementType::Water, 20, 90));
+        return m;
+    } else if (key == "clefairy" || key == "035" || key == "035_clefairy") {
+        auto m = std::make_shared<Monster>("Wild Clefairy", ElementType::Normal, level, 25, 11, 12, 9, "035_CLEFAIRY");
+        m->addMove(Move("Pound", ElementType::Normal, 14, 95));
+        m->addMove(Move("Disarming Voice", ElementType::Normal, 20, 100));
+        return m;
+    } else if (key == "eevee" || key == "133" || key == "133_eevee") {
+        auto m = std::make_shared<Monster>("Wild Eevee", ElementType::Normal, level, 24, 13, 11, 12, "133_EEVEE");
+        m->addMove(Move("Tackle", ElementType::Normal, 15, 95));
+        m->addMove(Move("Quick Attack", ElementType::Normal, 16, 100));
+        return m;
+    } else if (key == "mewtwo" || key == "150" || key == "150_mewtwo" || key == "sylvanguard") {
+        auto m = std::make_shared<Monster>("Mewtwo", ElementType::Grass, level, 55, 24, 18, 22, "150_MEWTWO");
+        m->addMove(Move("Psystrike", ElementType::Grass, 30, 90));
+        m->addMove(Move("Body Slam", ElementType::Normal, 24, 90));
+        m->addMove(Move("Swift", ElementType::Normal, 22, 100));
         return m;
     }
 
-    static std::mt19937 rng(42);
-    int roll = rng() % 3;
+    // Default fallback to Bulbasaur
+    auto m = std::make_shared<Monster>("Wild Bulbasaur", ElementType::Grass, level, 22, 11, 11, 10, "001_BULBASAUR");
+    m->addMove(Move("Tackle", ElementType::Normal, 14, 95));
+    m->addMove(Move("Vine Whip", ElementType::Grass, 20, 90));
+    return m;
+}
+
+std::shared_ptr<Monster> Monster::createWildMonster(int level, bool isBoss) {
+    if (isBoss) {
+        return createSpecificWildMonster("mewtwo", level);
+    }
+
+    static std::mt19937 rng(1337);
+    int roll = rng() % 5;
 
     if (roll == 0) {
-        auto m = std::make_shared<Monster>("Wild Grassling", ElementType::Grass, level, 20, 10, 9, 8, "grassling");
-        m->addMove(Move("Tackle", ElementType::Normal, 12, 95));
-        m->addMove(Move("Leaf Cut", ElementType::Grass, 18, 90));
-        return m;
+        return createSpecificWildMonster("bulbasaur", level);
     } else if (roll == 1) {
-        auto m = std::make_shared<Monster>("Wild Voltmouse", ElementType::Electric, level, 18, 12, 7, 14, "voltmouse");
-        m->addMove(Move("Quick Attack", ElementType::Normal, 12, 100));
-        m->addMove(Move("Spark", ElementType::Electric, 20, 90));
-        return m;
+        return createSpecificWildMonster("pikachu", level);
+    } else if (roll == 2) {
+        return createSpecificWildMonster("pidgey", level);
+    } else if (roll == 3) {
+        return createSpecificWildMonster("psyduck", level);
     } else {
-        auto m = std::make_shared<Monster>("Wild Aquafox", ElementType::Water, level, 22, 10, 10, 9, "aquafox");
-        m->addMove(Move("Scratch", ElementType::Normal, 12, 95));
-        m->addMove(Move("Bubble", ElementType::Water, 18, 90));
-        return m;
+        return createSpecificWildMonster("poliwag", level);
     }
 }

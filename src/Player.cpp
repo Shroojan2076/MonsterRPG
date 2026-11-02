@@ -9,7 +9,8 @@ Player::Player(int gridX, int gridY, const sf::Texture& walkTex, const sf::Textu
       hasStarterMonster(false),
       defeatedBoss(false),
       turnCooldownTimer(0.0f),
-      lastPressedDirection(Direction::None) {
+      lastPressedDirection(Direction::None),
+      previousGridPosition({gridX, gridY}) {
     // Initial basic inventory items for adventuring
     inventory.addItem(std::make_shared<PotionItem>(20), 3);
     inventory.addItem(std::make_shared<CaptureBallItem>(1.0f), 5);
@@ -89,6 +90,7 @@ void Player::handleInput(const TileMap& tileMap) {
             return;
         }
 
+        previousGridPosition = gridPosition;
         tryStep(inputDir, tileMap);
     }
 }

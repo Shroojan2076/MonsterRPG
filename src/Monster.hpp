@@ -68,5 +68,6 @@ public:
 
     static float getTypeMultiplier(ElementType attackType, ElementType defenderType);
     static std::shared_ptr<Monster> createWildMonster(int level, bool isBoss = false);
+    static std::shared_ptr<Monster> createSpecificWildMonster(const std::string& species, int level);
     static std::shared_ptr<Monster> createStarterMonster(int choice);
 };
